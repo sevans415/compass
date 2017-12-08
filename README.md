@@ -27,3 +27,7 @@ run the ./transferKeras2.py file with the below parameters and make sure GloVe e
 
 Parameters:
 [('epochs', 20), ('batch_size', 128), ('validation_split', 0.3), ('loss', 'binary_crossentropy'), ('dropout', 0.0), ('opt_flag', 1), ('opt_lr', 0.01), ('cnn_flag', 1), ('kernel_size', 128), ('lstm_flag', 0)]
+
+
+## Scraping Article Data
+To scrape the article data, you'll need to have downloaded the python package newspaper. All the code for scraping articles is in article_scraper.ipynb. It is comprised of three sections: downloading and processing a set of hundreds of recent articles of any category from Fox News, New York Times, and CNN; downloading and processing a small set of opinion articles from those three papers whose sentences we then manually labeled to expand the IBC dataset; and downloading and processing around 38 opinion articles from Breitbart News, Fox, CNN, NYT, and The New Yorker Slate, which we labeled at the article level and used in one section of RNN modeling. The article data produced in each of these three sections is stored in the folders: articles, extras, and polit. 
