@@ -2,7 +2,7 @@
 AI system that determines the political leaning of a news article. A project by Spencer Evans, Daniel Alpert, and Dylan Farrell. Check the compass.pdf file for an in-depth explanation of our process and findings
 
 
-# Running the RNN
+## Running the RNN
 To run the RNN you'll need to have downloaded tensorflow, keras, pandas, numpy, and sklearn. 
 
 Once you have that, run either the cross_val.py or the transferKeras2.py file with the appropriate arguments. Note that the RNN will need to train itself first which takes a while. 
