@@ -1,0 +1,39 @@
+with shoppers hitting the internet for holiday deals, pwc (pricewaterhousecoopers), where i am a partner, recently released a study finding that americans are looking for help protecting their private information  and theyre asking businesses to answer the call.
+
+the protect.me survey, which studied u.s. consumer attitudes about data security, cybersecurity, privacy, trust and regulation, showed that 72 percent of consumers believe businesses, not the government, are better equipped to protect them.
+
+still, about 69 percent of consumers believe companies are vulnerable or extremely vulnerable to hacks and cyberattacks, and only 25 percent believe most companies handle their sensitive personal data in a responsible way. its clear that consumers want businesses to do more to ensure personal data is kept secure. that means going beyond the regulatory requirements issued by state and federal government.
+
+the state of privacy regulation in the united states
+
+in the united states, we have an assortment of breach reporting regulations that vary from state to state and by industry  and consumers have taken notice of the lack of consistency. by comparison, the european union will implement the comprehensive general data protection regulation (gdpr) in may 2018.
+
+more than half of consumers say they would make an effort to get their personal information back from a company if they had the option.
+
+americans see a role for government regulation. a full 82 percent of consumers say that the government should regulate companies use of data. but 70 percent say the government is ineffective in ensuring fair use of their data.
+
+so, although consumers want the government to do more to protect their data, an overwhelming 92 percent say its up to companies to be proactive about data protection and not wait for the government to pass new regulations. they feel the companies with whom they share their personal data must ultimately be responsible for securing it.
+
+consumer control and transparency pave the path to trust
+
+consumers want control over their data, but dont feel like they have it. a resounding 92 percent feel they should be able to control what information is available about them on the internet, but only 10 percent feel they have complete control over their personal information.
+
+more than half of consumers (53 percent) say they would make an effort to get their personal information back from a company if they had the option.
+
+this is important for companies to understand, because customized services informed by customers preferences and data is becoming more central to the way business is done. data is essential to the operation of new, highly personalized emerging technologies, such as the internet of things (iot) and artificial intelligence (ai).
+
+more than half of consumers are wary of the iot and ais data privacy ramifications. companies that leverage these technologies must work hard to gain consumer trust.
+
+about 85 percent of consumers say they will not do business with a company if they have concerns about its data security practices. and 88 percent say their willingness to share personal data with a company depends on how much they trust that company.
+
+how to take action
+
+todays companies must put cybersecurity and privacy at the forefront of business strategy to win customers hearts  and earn their trust. its not enough to do this quietly  they must clearly communicate their responsible, robust data governance and privacy protection policies, which should be built upon rigorous standards. furthermore, these policies must give consumers more control over how their personal information is used.
+
+companies that go beyond regulatory requirements are likely to come out ahead with consumers, particularly when their products or services rely on or are integrated with emerging technologies. companies must design their solutions and experiences with risk management in mind, even when there are no regulatory requirements in place.
+
+companies in industries considered less trustworthy should be particularly proactive in addressing consumers concerns. when asked to name the five industries they trusted most with their personal data, just 3 percent of consumers named marketing and advertising companies. other industries that scored low included startups (5 percent), media and entertainment (6 percent) and online retailers (13 percent).
+
+theres work to be done to give consumers the secure and transparent private data experience they want. the sooner companies treat private data as a precious and hard-won asset, the sooner theyll find themselves on the path to success.
+
+consumers are ready for companies to take charge of data security  and theyre willing to reward the ones that do.

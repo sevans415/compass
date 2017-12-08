@@ -1,0 +1,61 @@
+many investors have said the most important factor driving the current enthusiasm is the entry of hedge funds and other institutional investors.
+
+the path for large investors has been smoothed by the chicago mercantile exchange and chicago board options exchange, which have been racing to roll out bitcoin futures contracts. most banks are already signed up with these exchanges and consequently can immediately begin trading the contracts. the options exchange has said it plans to start trading on sunday.
+
+it is still unclear how the arrival of bitcoin futures will influence the demand for the digital tokens.
+
+with a futures contract, banks can bet on the price of bitcoin without holding the underlying bitcoins. this is expected to bring many new players into the market who dont want to deal with the complications of holding bitcoins.
+
+but the futures contract will also allow investors to short bitcoin, or bet on the prices going down, which has been hard to do until now. some analysts think this could put downward pressure on the price. other market participants have worried that bitcoin futures could spread the risks of bitcoin into the rest of the financial system.
+
+people still use bitcoin and other virtual currencies to make ransom payments and buy illegal goods online, including synthetic opioids. but that activity has been on the wane since the authorities shut down some of the largest online black markets this year.
+
+advertisement continue reading the main story
+
+what role are smaller investors playing in the virtual currency markets?
+
+individual investors have been just as active as large investors.
+
+nowhere has the phenomenon of ordinary people buying virtual currencies been more visible than in south korea, where several exchanges have storefronts to help new customers. this is all the more remarkable because just a year ago, koreans showed almost no interest in these markets.
+
+small japanese investors have also been investing in bitcoin. they have been encouraged by laws passed this year that essentially legalized bitcoin and allowed bitcoin exchanges to get regulatory licenses.
+
+newsletter sign up continue reading the main story please verify you're not a robot by clicking the box. invalid email address. please re-enter. you must select a newsletter to subscribe to. sign up you agree to receive occasional updates and special offers for the new york times's products and services. thank you for subscribing. an error has occurred. please try again later. view all new york times newsletters.
+
+in the united states, most small-time investors have gone to the san francisco company coinbase, which provides a bitcoin brokerage service, similar to charles schwab, as well as an exchange for larger investors. coinbase now has more account holders than schwab, and it has struggled to keep up with the growth.
+
+china used to be the most active country for bitcoin trading and mining, but the authorities there have cracked down this year.
+
+what are the dangers of getting into this market?
+
+many of the largest exchanges, including in south korea, are essentially unregulated. the lack of oversight means that no one is checking that the exchanges are properly securing their customers money or that large players are not able to manipulate the price. one of the largest exchanges in the world, bitfinex, has been hacked numerous times and provides little transparency about where it is keeping its money.
+
+even regulated exchanges, like coinbase in the united states, have not been battle tested like larger financial institutions, and their operations have gone down at key moments.
+
+once people buy bitcoin or other virtual currencies, they are often targeted by hackers who have become experts at penetrating bitcoin accounts. bitcoin wallets are vulnerable to new kinds of attacks that are not a problem for ordinary financial accounts.
+
+most important, in contrast to money in a bank account, when a bitcoin is gone there is essentially no way to get it back and no insurance covering its loss.
+
+are more people using bitcoin to pay for things?
+
+when bitcoin was released in 2009, it was described as a new kind of electronic cash.
+
+recently, though, many programmers working on bitcoin have said the system in its current form is not a particularly good way to pay for things. they argue that it is best designed to serve as a sort of scarce commodity, like digital gold, allowing people to keep their money outside the control of governments and companies.
+
+advertisement continue reading the main story
+
+many people who want to use virtual currencies for online payments are looking to bitcoin competitors, like bitcoin cash and monero.
+
+what role are the other virtual currencies playing in this frenzy?
+
+earlier this year, bullish sentiment was focused on ethereum, a virtual currency network that is more adaptable than bitcoin. the price of ether, the virtual currency on the ethereum network, has continued to rise in recent months, but not as fast as bitcoin.
+
+many investors were also putting their money into custom virtual currencies released by entrepreneurs in so-called initial coin offerings. these new virtual currencies have generally been designed to serve as the internal payment mechanisms on new software the entrepreneurs are building.
+
+this fall, though, regulators have signaled that they are planning to crack down on coin offerings.
+
+where did virtual currencies come from, and how do they work?
+
+the bitcoin software was released in early 2009 by a mysterious creator who went by the name of satoshi nakamoto. the search is still on for the true identity of satoshi.
+
+the software released by satoshi set out the basic rules for bitcoin and the computer network on which it lives. unlike other forms of money, which are controlled by governments and financial institutions, bitcoin operates on a decentralized network of computers that no one institution controls. for more details, see our bitcoin explainer.

@@ -1,0 +1,13 @@
+photo
+
+over the past couple of days weve had two very good critiques of the tax foundation model of tax cuts, which comes closer than any other to telling republicans what they want to hear.
+
+greg leiserson takes on tfs bizarre treatment of the estate tax, which should make no difference in the small-open-economy approach they claim to be following, but somehow becomes a huge growth factor in their analysis. matt obrien follows up, among other things, on my point about leprechaun economics: if your claim is that tax cuts will induce huge inflows of foreign capital, you should be projecting large future payments of income to foreigners, so that domestic income doesnt grow nearly as much as gdp. tf somehow doesnt.
+
+so are there real-world examples of the latter issue aside from ireland? actually, yes  the so-called visegrad economies of eastern europe. these economies have attracted huge capital inflows from western europe, in part because of low wages, in part because of low corporate tax rates. this has helped gdp grow  but national income has lagged, because so much of the growth has gone to foreign investors:
+
+average households have not seen enough of the fruits of economic growth. those rewards have gone disproportionately to the owners of capital, and in these countries, that tends to mean foreigners. in the czech republic, hungary, and slovakia, the most important sectors are largely or wholly foreign-owned.
+
+you can see what this has meant for the czech republic in the figure. for what its worth, the lag of gnp behind gdp shown there is several times as large as most predictions of extra growth from u.s. tax cuts.
+
+now, i dont believe this tax reform will produce anything like the capital inflow its defenders claim. but even if it does, americans wont see much of the benefits.

@@ -1,0 +1,53 @@
+written by by oscar holland, cnn
+
+dutch designer joris laarman has built his career through emerging technologies like 3d printing and robotics.
+
+but as a student 15 years ago, he didn't even own a computer.
+
+"after my graduation i got a computer, which changed everything," he said in a phone interview. "my generation was the first to know what it was like before computers, but who also grew up with them."
+
+now the 37-year-old can't work without one. from open source furniture designs to a 3d-printed footbridge made from stainless steel, laarman's work lies at the intersection of design and technology.
+
+his company, joris laarman lab , pushes at the experimental edges of an industry that has digitalized rapidly since he graduated from the design academy eindhoven in 2003.
+
+"we're trying to figure out what the design of the future will be -- what it could look like," he said.
+
+digital toolbox
+
+one of laarman's best-known designs is the bone chair, which was created through algorithms that mimic bone growth. using a large volume of computer-generated calculations, laarman's program systematically adjusted and strengthened the chair's design.
+
+"birds' bones have super-optimal construction -- they constantly adapt themselves by taking away material where it's not needed and adding material where it is, without losing strength," he explained.
+
+"to me, an algorithm is just a new high-tech version of a saw or a pair of scissors -- it's just a tool. the designs that we make are never finished objects, they're more like programs that we can tweak into new forms and adapt themselves accordingly."
+
+technology is not only changing designers' methods, but also the type of products they can create. more than a simple efficiency measure, laarman says that digitalization makes entirely new concepts possible.
+
+"(the shape of the bone chair) could never have been invented without the algorithm. you'd need really heavy calculations for such an evolutionary process.
+
+"if you were to do this manually, without a computer, you'd have to break the legs of the chair thousands of times to make it stronger and to know where to add or take away material."
+
+design to download
+
+the bone chair is set to go on display at the new york's cooper hewitt, the smithsonian design museum , alongside other highlights from laarman's career, including a set of tables made from reprogrammable molecular building blocks called voxels.
+
+the exhibition, titled " joris laarman lab: design in the digital age ," encourages visitors to interact with technologies that may soon become commonplace, said the show's curator andrea lipps.
+
+"(experimental) designers often end up creating things that are so completely foreign that they become almost indigestible," she said. "what's interesting about joris' work is that there's a familiarity to it that makes it feel less threatening. these designers are the early adopters -- they're taking our hand and leading us into the future."
+
+while lipps wants the exhibition to be an "interactive, participatory experience," visitors won't get a chance to sit on any of laarman's chairs. they will, however, be able to download some of the design blueprints.
+
+"you can download one (of the chairs) for free and make it yourself -- or have it produced by your neighbor if they have a 3d printer," laarman said. "there are now platforms that show where the 3d printers in your neighborhood are."
+
+the 'next industrial revolution'
+
+this tools used by laarman are just some of the digital methods transforming the design industry. robotics, 3d printing and virtual reality are all changing the way products are made -- from super-strong digitally fabricated materials to cars designed in thin air using vr goggles.
+
+according to research by the consulting firm mckinsey, the cost of 3d printing fell 60 percent between 1990 and 2014, while the price of industrial robots fell by 5 percent every year between 2000 and 2012.
+
+this move from industrial to digital production represents a fundamental shift in the economy of design, said laarman, comparing the transition to the industrial revolution.
+
+"modernists in the early 20th century were developing new form languages for the dawn of a new industrial period. it was very much dependent on standardization and geometric shapes.
+
+"right now, you can see digital fabrication is taking off and this leads to a completely new type of form language. it's still very early, but everybody sees the potential. digital design, biotechnology, ai and robotics are going to completely change everything in the world, at every level of society. it's very important to start working on it."
+
+"joris laarman lab: design in the digital age" will be exhibited at cooper hewitt, the smithsonian design museum from 27 september 2017 to 14 january 2018

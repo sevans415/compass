@@ -1,0 +1,29 @@
+special post  some solvers love them, some solvers hate them, but rebus elements are a fact of life when it comes to solving crosswords.
+
+readers who are just starting to solve ask two questions when there is a rebus in a puzzle: they ask if they are supposed to be warned that a rebus exists in the puzzle (no, thats part of the fun of solving) and they ask how in tarnation they are supposed to put more than one letter in a square if they are solving electronically. ill get to that in a minute, but first id like to show you what a rebus in a crossword looks like.
+
+a rebus can be a letter, number or symbol that represents a word, but in many crosswords, the rebus will be a word or group of letters that need to be written inside a single square, like this puzzle by elizabeth long from december 1, 2011, where the word jack was the rebus element.
+
+photo
+
+the clue was you might find one at a sawmill, and the answer is lumberjack, a 10 letter word, but the slot only has room for seven letters. how do you fill in the entire answer?
+
+entering a rebus on the web
+
+step 1: select the square in which you want to enter a rebus. click the rebus button on the toolbar above the clue lists, or simply press escape (esc). this will open an expandable square in which you can type multiple characters. step 2: type in your answer and press enter/return, or click anywhere outside the field to close and save your rebus. to cancel your entry instead, press escape.
+
+photo
+
+entering a rebus on an ios device
+
+step 1: click on the square in which you want to enter the rebus. tap the more key on the bottom left-hand side of the screen. step 2: tap the rebus key. this will open up a larger square in which you can type multiple letters. step 3: type in the letters and then tap anywhere inside the grid to close and save your rebus.
+
+photo
+
+entering a rebus on an android device
+
+the process for entering a rebus on an android device is the same as for the ios process, except that on the android app, the ellipsis key [ ... ] on the lower left-hand side is used. tap the ellipsis key and then locate the rebus key. follow the instructions for entering the rebus element on an ios device.
+
+now that you have the hang of this crossword feature, give one of our free mini puzzles a try.
+
+happy solving!

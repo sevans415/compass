@@ -1,0 +1,67 @@
+they're riddled with unintended consequences. they would create new loopholes.
+
+and they don't live up to the big promises made by president trump, treasury secretary steven mnuchin and republican lawmakers.
+
+still, republicans hope to merge the hastily passed house and senate tax bills into one final piece of legislation before christmas.
+
+the accelerated pace has policy watchers worried.
+
+"historic tax reform efforts involved discussion drafts of legislative language, hearings on those specific proposals, extensive public comment periods. none of that is happening now," lily batchelder, a former chief tax counsel on the senate finance committee, tweeted.
+
+as tax experts, businesses and accountants continue to unpack what's in the bills, here are just four warning signs that the plan might not deliver what was promised or intended.
+
+red flag #1: tax plan would not simplify the tax code
+
+republicans have been promising a simpler code. some measures -- like a larger standard deduction -- could provide more simplicity.
+
+but senate republicans decided at the last minute to reinstate the poster child for needless complexity: the alternative minimum tax for individuals and corporations. it requires filers to calculate their tax burden twice -- once under one set of rules, and once under a different set of rules -- and pay whichever is highest.
+
+both the house and senate bills also seek to lower the tax burden on so-called pass-through entities, which comprise the majority of u.s. businesses. taxes on pass-throughs are paid directly by the owners and shareholders under the individual code. but the bills bar large law partnerships, accounting firms and other lucrative professional service firms from taking advantage of the new, lower pass-through rate.
+
+at the same time, the bills would slash the corporate tax rate.
+
+consequently, many businesses -- after having an incentive for years to structure themselves as pass-throughs -- might suddenly have a reason to restructure as corporations.
+
+"people are scrambling to figure out how lawyers and doctors may reorganize to get better rates," said cpa meredith tucker of kaufman rossin in ft. lauderdale, fla.
+
+it may not be a simple decision. under the senate bill, most individual and pass-through provisions sunset at the end of eight years. "we're going to go through all of this just to have it expire," tucker said.
+
+another simplicity killer: the house bill proposes a complicated rule with an alternate workaround that would govern how much a business owner's income must be taxed as compensation, and how much can be taxed at the lower proposed business rate.
+
+"the house bill is incredibly complex. they talk about making it simpler. but it's crazy complex," said john arensmeyer, founder of the small business majority, an advocacy group.
+
+the upshot: h&r block, which president trump often said would be put out of business by his tax reform, can probably breathe easy.
+
+tax planning and accounting firms will be busy helping everyone figure out what the proposed changes mean to them, and how to plan around them if they find they'll be saddled with a higher bill.
+
+indeed, both bills would be a "bonanza" for tax planners, said martin sullivan, chief economist of tax analysts.
+
+red flag #2: won't pay for itself
+
+republicans have consistently said their tax plan will pay for itself over time thanks to the economic growth it will spur. no nonpartisan analysis agrees with that. instead, they show that the tax plan will add more than $1.4 trillion to deficits over a decade. the picture improves when growth potential is factored in but not by much. the senate bill, for instance, would still add more than $1 trillion, according to the joint committee on taxation.
+
+what's more, since the bills' deficit-financed tax cuts would go into effect when the economy is experiencing its best growth in three years and the country's debt is already high and climbing, there's concern the cuts will spur inflation and diminish the government's ability to fight the next recession.
+
+red flag #3: could saddle some corporations with a higher bill
+
+the biggest unintended consequences so far, which lawmakers may try to fix in their final negotiations, are caused by the senate bill keeping the corporate amt.
+
+gop senators were trying to provide more revenue to pay for other last-minute changes. yet in doing so, they effectively subverted the purpose of the corporate amt, which is supposed to ensure that corporations don't take so many tax breaks that they pay no tax at all. under the tax bill, the regular corporate rate is slashed to 20%, identical to the corporate amt rate.
+
+the last-minute switch also would render key tax incentives for corporations moot because they're not allowed to be taken under the amt. one of them -- the research and development credit -- is intended to spur innovation.
+
+the amt change, combined with other provisions in the tax bill that curb valuable business tax breaks, means many corporations -- surprise! -- could face a tax hike. for instance, the ceo of coal company murray energy estimates his company would pay $60 million more a year.
+
+preserving the amt also could undermine the structure of international tax reforms in the bills, according to a report by tax scholars, practitioners and analysts.
+
+red flag #4: won't offer "big" tax cuts for the middle class
+
+trump and republicans tout their tax plan as a boon for the middle class, not the wealthy.
+
+nonpartisan analyses show that middle-income households would in fact get tax cuts, on average, especially in the first half of the next decade. but the highest-income households on average would benefit more.
+
+in the second half of the decade, tax cuts for middle-income households would greatly diminish on average, while those for the top 0.1% would increase, according to the tax policy center.
+
+trump in particular has claimed several times that he would pay more under the gop plan. that seems implausible given that so many provisions would directly benefit him and his family. one of the biggest is the lower tax burden on pass-through entities, which are how trump's more than 500 businesses are structured.
+
+the bills distinguish between types of income that qualify for lower tax rates and those that don't. but trump is in luck, according to steven rosenthal, a senior fellow at the tax policy center. three staples of his income -- rents, royalties and licensing fees -- would qualify.

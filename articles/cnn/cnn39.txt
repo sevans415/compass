@@ -1,0 +1,81 @@
+(cnn) on august 21, 26-year-old nia payne was hoping to view the solar eclipse in staten island, new york. what she didn't expect was to end up in the emergency room with a crescent shape blocking the center of her vision.
+
+the eye damage she sustained while viewing the total solar eclipse in august is detailed in a case report published thursday in the journal jama ophthalmology
+
+a technology called adaptive optics allowed doctors to view the damage on a cellular level and see the microscopic structures in her eyes. previously, this kind of detail could be seen only with glass slides and a microscope.
+
+an attempt to view the eclipse
+
+eclipse viewers had been warned to view the event only through special glasses: "filters that meet the iso 12312-2 standard reduce the sun's brightness to a safe and comfortable level, like that of a full moon, and block harmful ultraviolet and infrared radiation as well," rick fienberg of the american astronomical society said at the time. "solar filters that meet this standard are about 100,000 times darker than ordinary sunglasses, and sunglasses don't block infrared radiation."
+
+however, there was a widespread shortage of eclipse glasses due to the event's popularity, and payne didn't have any.
+
+watching the celestial event outside her boyfriend's workplace, she noticed the changes around her, as it looked like dusk during the day. payne looked up at the sun with her naked eye for a few seconds, but it was too bright.
+
+she approached a woman nearby and asked whether she could borrow her glasses. the woman did not appear interested in viewing the eclipse and said she was "blind as a bat anyway." she told payne she had borrowed them from a friend and agreed to let payne use them.
+
+payne put on the glasses and looked up at the partial eclipse for 15 to 20 seconds. she didn't know what eclipse glasses were supposed to look like, but she remembered that the sun seemed particularly bright -- like looking at it with sunglasses on.
+
+"but it didn't bother me, because i thought it would be a great experience to catch a solar eclipse the proper way," payne told cnn.
+
+she removed the glasses, returned them to the woman and left.
+
+six hours later, payne noticed a weird dark spot in the center of her vision. she told her friends and family, but they told her to wait a day. after all, everyone had been outside looking up at the sun, and it was normal to feel "weird."
+
+the next day, payne lost vision in the center of her left eye.
+
+a case study develops
+
+she went to the emergency room of a hospital in staten island, but she said they didn't appear to take her complaint seriously and wouldn't look at her retina.
+
+a friend suggested mount sinai hospital in new york, and payne went there two days after the eclipse. from that emergency room, she was referred to specialists at the new york eye and ear infirmary of mount sinai.
+
+she was diagnosed with solar retinopathy, retinal damage from exposure to solar radiation, in both eyes. it was worse in her dominant left eye; the damage in her right eye was minimal and more manageable.
+
+there is no treatment for solar retinopathy. it may improve or worsen, but is a permanent condition.
+
+the retina is "the camera film of the eye," and it interprets light and turns into electrical energy so the brain can understand it, said dr. avnish deobhakta, author of the new report and an ophthalmologist with the eye and ear infirmary.
+
+payne asked the doctors whether the damage was from attempting to look at the sun with her naked eye for a few seconds, but they said it looked as though it was caused by staring at the sun for some time.
+
+doctors believed that the eclipse glasses payne used were not up to international safety standards. the american astronomical society had warned that it had received alarming reports of potentially unsafe eclipse glasses "flooding the market." some bore a fake stamp to claim that the filters met the iso 12312-2 standard.
+
+"we saw damage, a change in the center part of her retina, which corresponds with your central visual field, and that is a tipoff for us that there was something going on here related to the eclipse," deobhakta said.
+
+doctors used adaptive optics machine to image her eyes, in addition to normal imaging methods, to get a complete picture of the damage.
+
+adaptive optics were developed by the military to help focus laser beams and then later used on telescopes to reduce the twinkle of stars so they can be seen more clearly. now, adaptive optics can be used to look at individual cells in the photoreceptor layer of the retina, where the uptake of light occurs before it is converted and transmitted to the brain.
+
+it is also the layer that doctors thought might be most affected by viewing the eclipse improperly.
+
+the adaptive optics image of payne's retina revealed a crescent shape.
+
+the images revealed something shocking.
+
+"we could see a robust concordance between the shape of the exposed sun during the eclipse and the damage to cells in the photoreceptor layer," deobhakta said. "when we have a patient who comes in saying they see a dark spot, we have them draw it. she drew a crescent, which corresponded to the exposed sun that was seen in the new york area the day of the eclipse. then we did an imaging of this layer, and we saw what amounted to a crescent shape of damage to that layer. that really has never been able to be seen before. our intuitions are shown to be correct by this very precise technology."
+
+doctors asked payne whether she wanted to participate in a case study the moment they received the images back from the machine -- on only her second visit to the clinic. hoping that the findings may help others, payne agreed.
+
+dr. christopher quinn, president of the american optometric association, said the case study's novelty lies in the imaging techniques to characterize and document the retinal damage. and dr. jane c. edmond, a pediatric ophthalmologist at texas children's hospital, said the imaging technique may also have allowed for an earlier diagnosis of solar retinopathy by a few days.
+
+retraining the eye
+
+months after the incident, the damage has not changed, for better or worse.
+
+normal things like reading, driving and watching tv shows or movies have required payne to retrain her vision. she is training herself to use her right eye as dominant, and she has to be close to the screen in order to watch tv or movies. but if she stares in one place for more than a few seconds, she can see the spot in the center of her vision, and it starts to block out everything else. reading is the most difficult, she said.
+
+she wore sunglasses for the first couple of months after the eclipse, to manage how bright everything seemed. the brightness and glare of lights at night is the worst, she said.
+
+the spot itself isn't dark anymore, but tends to match the color of whatever she's looking at. luckily, she still has peripheral vision in her left eye.
+
+payne is trying to live as she did before.
+
+"so far, it's a nightmare, and sometimes it makes me very sad when i close my eyes and see it," payne said. "it's embarrassing. people will assume i was just one of those people who stared blankly at the sun or didn't check the person with the glasses. it's something i have to live with for the rest of my life. but it could be a whole lot worse, and i try to count my blessings."
+
+follow cnn health on facebook and twitter see the latest news and share your comments with cnn health on facebook and twitter.
+
+she no longer lives as close to mount sinai as she did, but payne will return in january for followup observation to see whether her vision is improving or worsening on a cellular level.
+
+deobhakta and the other doctors who participated in the case study are hopeful that adaptive optics will be what allows the possibility of a treatment for solar retinopathy down the road.
+
+"this gives us a door to see conditions in a way we've never seen them before, and that often precedes treatments," deobhakta said. "there is no treatment on the horizon, but the horizon is only seen when you're able to see it, and i think that's what this imaging helps us to do. having this technology and looking at the cellular structure would have to be a precondition to do those things."

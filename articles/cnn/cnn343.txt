@@ -1,0 +1,35 @@
+(cnn) many of us have found ourselves in the following situation at least once: you're driving down the road, approaching a traffic light, and it turns yellow.
+
+do you speed up to make it through the intersection before the light turns red, or do you slam on the brakes to stop behind the white line?
+
+you decide to gun it but, at the last moment, see a police car out of the corner of your eye. can you change your mind and stop in time? the answer depends on just how well -- and how fast -- three distinct areas of your brain communicate.
+
+"we have to be able to interpret any new information that we get in the context in which we're in and make a split-second decision about whether that means that we should not go through with what we had just started to do," said susan courtney , a professor of psychological and brain sciences at johns hopkins university and senior author of a new study on the subject.
+
+the report, published thursday in the medical journal neuron , pinpointed three precise parts of the brain that work together to stop body movement: the dorsal and ventral parts of the right ventrolateral prefrontal cortex, and the bilateral frontal eye fields.
+
+three brain areas work together to stop body movement: the dorsal part of the right ventrolateral prefrontal cortex (red), the ventral part of the right ventrolateral prefrontal cortex (blue) and the bilateral frontal eye fields (green).
+
+for their laboratory experiment, researchers put 21 participants into an fmri machine and had them complete a "context-dependent stop signal task." they were shown colored shapes on a computer screen and asked to either move their eyes or stop their eye movement, based on which color appeared. the eye movement is what's called a saccade : "a small rapid jerky movement of the eye especially as it jumps from fixation on one point to another." the researchers measured how quickly the participants could keep going as planned or halt their eye movements.
+
+a real-world example courtney likes to offer this time of year is walking up a staircase outside a building. you're about to step on the next tread but notice a glimmer of light from the exact spot where you're about to put your foot. very quickly, you have to ask yourself: is it cold outside, and could it be ice? are you wearing shoes that are more likely to slip or grip? can you stop the movement of your foot in time and step somewhere else?
+
+in any of these scenarios, the sooner you try to change your mind, the better.
+
+follow cnn health on facebook and twitter see the latest news and share your comments with cnn health on facebook and twitter.
+
+according to a press release from johns hopkins, "if you attempt to change your mind after 100 milliseconds or less, you most likely can. if it takes you 200 milliseconds or more -- that's less than a quarter of a second -- you're still going through with the original plan. that's because the original signal is already on its way to the muscles by then -- past the point of no return."
+
+courtney said the question she's hoping to answer next is, "do these processes apply to things that are more general than just moving your eyes or using your legs? does it even apply to shifting your attention ... between different goals or thoughts?"
+
+she presented another scenario in which a recovering alcoholic passes by his or her old favorite bar. chances are, they'll notice it, but what is important is teaching them to redirect their attention as fast as possible, courtney said.
+
+"we know that (in) people who are addicted ... their attention is captured by stimuli that are associated with their previous drug taking," courtney said. "that in and of itself is not necessarily a problem, unless you can't then pull your attention away from that. you can be distracted, but then the important thing is, can you redirect your attention to what your current goals should be in that context?" namely, avoiding drinking.
+
+"the main thing is to pause for half a second and re-evaluate before you start your action plan. you don't have to sit and ruminate, necessarily, but that half a second before you have an impulsive decision to do something that you'll later regret can be very effective."
+
+in other words: as important as it is to do something quickly, don't initiate movement until you're confident you're making the right decision.
+
+"give yourself time to change your mind," courtney said.
+
+in the hypothetical driving situation, perhaps this means driving a bit slower so you can stop if you spot that police car. better safe than sorry.

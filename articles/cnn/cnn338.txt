@@ -1,0 +1,71 @@
+some people kill time at the airport by browsing duty-free shops. i decided to shop for bitcoin.
+
+but first, there are two things you should know about me: i tend to be almost as afraid of losing money investing as i am of flying. on some level, i figured one fear might cancel out the other.
+
+so last thursday, while waiting for a flight to nashville, i pulled up a popular application called coinbase that can be used to buy and sell bitcoin. the virtual currency had hit $10,000 for the first time a couple days earlier, before retreating somewhat. news of bitcoin's rapid rise was everywhere, including on cnn.
+
+related: what is bitcoin?
+
+for 15 minutes at the airport, i refreshed the price of bitcoin over and over, watching as it gained and lost hundreds of dollars in a matter of minutes. i called out the price fluctuations breathlessly to my wife, who gently encouraged me not to be an idiot, before returning to her magazine.
+
+she was in good company. jpmorgan chase ceo jamie dimon recently called bitcoin a "fraud" and suggested people who buy it are "stupid." warren buffett called bitcoin a "mirage" in 2014 and warned investors to "stay away."
+
+are you trading bitcoin? we want to hear from you.
+
+and yet bitcoin has climbed more than tenfold since buffett's warning. earlier this month, one college friend casually told me over drinks he'd made tens of thousands of dollars investing in another cryptocurrency. he said he hoped it would be worth enough one day to buy a house.
+
+when i saw the price of bitcoin fall to $9,500, i pressed buy, defying the wisdom of two finance titans and my wife. one hundred dollars, or 0.0101 bitcoins. (a few days later, i bought another $150.) by the time we got to our hotel, my stake had already gone up 10%. one week later, it was (briefly) up 100%. my wife's opinion of me has reportedly decreased by the same amount.
+
+what is happening?
+
+it's an investing frenzy, plain and simple.
+
+bitcoin cracked $1,000 on the first day of 2017. by this week, it was up to $12,000, and then it really took off: the price topped $17,000 on some exchanges thursday, and $18,000 on at least one. other cryptocurrencies have seen similar spikes, though they trade for much less than bitcoin.
+
+there's a long list of factors people may point to in an attempt to explain this. regulators have taken a hands-off approach to bitcoin in certain markets. dozens of new hedge funds have launched this year to trade cryptocurrencies like bitcoin. the nasdaq and chicago mercantile exchange plan to let investors trade bitcoin futures, which may attract more professional investors.
+
+related: bitcoin plunges more than $2,500 after hitting new record
+
+yet a key reason the price of bitcoin keeps going up is, well, because it keeps going up. small investors like yours truly have a fear of missing out on a chance to get rich quick. and when the value of your bitcoin doubles in a week, as it did for me, it's easy to think you're a genius. but you can get burned assuming it will keep skyrocketing.
+
+some investors have likened the bitcoin hype to the dot-com bubble. others, like dimon, have said it's even "worse" than the dutch tulip mania from the 1600s, considered one of the most famous bubbles ever.
+
+as buffett put it back in 2014, "the idea that [bitcoin] has some huge intrinsic value is just a joke in my view." bitcoin is not backed by a company's earnings, or the strength of a government and rule of law. there's also no interest or dividends.
+
+why would anyone want or need to use bitcoin?
+
+bitcoin serves as a new kind of currency for the digital era. it works across international borders and doesn't need to be backed by banks or governments.
+
+or at least that was the promise when it was created in 2009. the surge and volatility of bitcoin this year may be great for those who invested early, but it undermines bitcoin's viability as a currency.
+
+related: bitcoin boom may be a disaster for the environment
+
+right now, i can use my bitcoin holdings to pay for purchases at overstock (ostbp), or book a hotel on expedia (expe). but if i use bitcoin to buy $25 worth of socks on overstock today, and the price of bitcoin quadruples next week, i'll feel like those socks actually cost me $100. then again, if bitcoin crashes, at least i'll always have the socks.
+
+rather than a currency, bitcoin is being treated more like an asset, with the hope of reaping great returns in the future.
+
+so is there anything truly valuable about bitcoin?
+
+yes, the technology behind it.
+
+bitcoin is built on the blockchain, a public ledger containing all the transaction data from anyone who uses bitcoin. transactions are added to "blocks" or the links of code that make up the chain, and each transaction must be recorded on a block.
+
+even bitcoin critics like dimon have said they support the use of blockchain technology for tracking payments.
+
+is there a legal and legitimate way to invest in bitcoin?
+
+bitcoin exchanges have a checkered history. mt.gox, once the largest exchange, shut down in 2014 after losing hundreds of millions of dollars worth of bitcoin after a hack.
+
+today, the leading exchange is offered by coinbase, a startup that has raised more than $200 million from a number of top tier venture capital firms. square (sq), the payments service, is also rolling out a bitcoin product.
+
+there are also bitcoin atms in scattered bodegas and convenience stores around the country, through companies like coinsource. the atms let you exchange bitcoin for cash, or vice versa by scanning a qr code from the digital wallet application on your phone.
+
+related: millions of dollars stolen in bitcoin hack
+
+with coinbase, you must first give the app permission to connect to your bank account. as with other stock trading applications, you pay a small fee for each transaction, buying and selling. but the transaction can take significantly longer.
+
+my original $100 bitcoin purchase won't officially be completed on coinbase until friday, more than a week after the transaction. the price i bought it at remains the same, but i won't be able to sell at the earliest until friday.
+
+if the price plummets before then, i'm out of luck. no socks for me.
+
+-- cnn's selena larson contributed to this report.
