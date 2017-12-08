@@ -1,5 +1,5 @@
 # Compass
-AI system that determines the political leaning of a news article. A project by Spencer Evans, Daniel Alpert, and Dylan Farrell
+AI system that determines the political leaning of a news article. A project by Spencer Evans, Daniel Alpert, and Dylan Farrell. Check the compass.pdf file for an in-depth explanation of our process and findings
 
 
 # Running the RNN
