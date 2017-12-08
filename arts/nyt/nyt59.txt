@@ -1,0 +1,23 @@
+for example, at 17a, the answer to 1984 schwarzenegger sequel is conan the destroyer. in the game, a destroyer has two units (or xs when theyve been hit), so the answer we write in is conan the xx.
+
+i stared at that for a long time before i realized that the answer wasnt 2x or twenty. in fact, i had to solve all the way down to the battleship revealer at 60a  its four units long in a popular board game (with the games other pieces hinted at by the circled letters)  before i understood what i was aiming for, so to speak. once i realized that all the circled squares needed xs, it made the solve much easier.
+
+one other thing i liked about this puzzle was the skill mr. charlson showed in filling his grid. trying to fill cleanly around all of those xs (especially with them being so close together) is not for the faint of heart. i think he succeeded, dont you?
+
+kudos to mr. charlson for a fun take on this board game, and for debuting submarine sandwich. and kudos to the editors for the grinder clue.
+
+tricky clues
+
+25a: i loved this clue. early form of airmail? had me searching my brain, but i eventually came up with carrier pigeon. of course, theres always the african swallow:
+
+42a: butters up? is also a term for flattering someone, but today  given our recent american thanksgiving  we are supposed to be thinking about the word bastes.
+
+9d: hes not wrong. congress and sex are synonyms. and i will leave it at that.
+
+13d: remember, its thursday, so if you are thinking that a clue might mean one thing and none of your answers fit, try thinking about whether the clue could have a different meaning. giving heat? could mean pressuring someone or coming down hard on them, but with that question mark, we are thinking of heat as slang for a weapon. thats why the answer is arming.
+
+constructor notes
+
+the core concept behind todays puzzle has been seen before, but i wondered if there was a new spin i could put on the idea. perhaps, i thought, the squares themselves, rather than a letter sequence, could replace the word they represent. still, this was just a thought  i couldnt believe my luck when i discovered not only that destroyer, cruiser, submarine and carrier could all be incorporated into lively, nonnautical-related entries, but also that along with battleship as a revealer, these entries could be arranged symmetrically when their respective boat names were replaced with the number of squares corresponding to the boats length in battleship! i briefly considered placing a hit rebus in each of these squares, but decided on xs to represent hits instead, figuring that i could only push my luck so far, and it doesnt hurt that i have a soft spot for the high value scrabble letters. in designing and filling the grid, i started with the upper region, deploying my black squares to best accommodate the seven xs. again, to my surprise, i got far better fill here than i expected  id like to give a shout-out to pope john x for his much-needed assistance. interestingly enough, the bottom right was the toughest section to fill cleanly, despite the lack of xs. overall, though, i think this turned out pretty well, and am glad i could incorporate some long bonus fill like jukebox hero and loose cannon, and some nice mid-length fill in like so and roomba. i was pleased to see that my favorite clue of mine, early form of airmail? for carrier pigeon, made the cut, and i like the opacity of will and joels clue grinder for submarine sandwich. given its proximity to 17-across, i thought it might be fun to clue boor as barbarian, but that didnt end up making it into the final version. finally, a note on circles. although i wonder if the circled squares might give away the game a bit too easily for some, if they allow a mind-bending theme like this one to become accessible to more solvers, then i think theyre a good thing. on that note, i hope everyone enjoys the puzzle!
+
+your thoughts?

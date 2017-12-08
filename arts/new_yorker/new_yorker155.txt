@@ -1,0 +1,19 @@
+description
+
+publication: new yorker
+
+
+
+image type: cartoon
+
+
+
+date: april 25th, 2011
+
+
+
+caption: "this is a teaching hospital."
+
+
+
+description: a doctor writes the word "sick" on a blackboard above a hospital patient who is lying in bed. three bystanders possibly nurses or interns look on.

@@ -1,0 +1,29 @@
+(cnn) cnn has released an investigation exposing the inappropriate and potentially fraudulent use of a popular nursing home drug called nuedexta. read it here .
+
+during the reporting process, cnn analyzed payment, prescriber, adverse event and inspection report data from various government agencies and dug through internal company emails and documents. reporters also interviewed dozens of doctors (including critics and paid promoters of nuedexta), other medical experts, nursing home employees, family members of nuedexta patients and both former and current employees of the drugmaker, avanir pharmaceuticals.
+
+nursing home citations
+
+cnn used keywords "nuedexta," "pseudobulbar affect," "pba," "uncontrollable laughing," "uncontrollable crying," "avanir" and "dextromethorphan-quinidine" (nuedexta's generic name) to analyze data from the centers for medicare & medicaid services , and identified cases where nuedexta use had resulted in a citation by state health officials.
+
+adverse events
+
+cnn analyzed data from the fda adverse event reporting system to identify reports made involving nuedexta since 2011, the year the drug hit the market. this database includes "adverse events" voluntarily reported by doctors, nursing home employees, family members and patients themselves. these events can include everything from minor side effects to hospitalization and death, and the fda said reports do not necessarily "constitute conclusive evidence of a problem with the product."
+
+cnn analyzed the adverse event data to find incidents where nuedexta was deemed a "suspect" medication, meaning it was considered by the event's reporter to be a potential cause of harm. cnn analyzed this data to identify the number of incidents where patients experienced hospitalization, death or symptoms such as sedation (using keywords "somnolence," "sedation," "fatigue," "flat affect," "stupor" and "unresponsive to stimuli") or dizziness and falls (using keywords "dizziness," "confused state," "confusion," "falls," "gait disturbance," "fear of falling," and "confusional state.")
+
+in addition, reporters read the full text of roughly 500 reports obtained through a federal freedom of information act request.
+
+paid prescribers
+
+several data sources from the centers for medicare & medicaid services were used to track medicare spending on the drug and identify doctors who were top nuedexta prescribers and/or recipients of nuedexta-related payments or meals.
+
+cnn used drug cost data from medicare part d , the main prescription drug insurance program for those 65 and over and the disabled, to show how government spending on the medication has spiked. this data includes all program payments for the drug, including patient copays, and does not take into account manufacturer rebates, which cms is barred by law from disclosing.
+
+45% of the part d nuedexta claims came from doctors who received at least one nuedexta-related payment or meal between 2013 and 2015. the 2016 prescriber data is not available. cms' open payments data from 2013 to 2016 was analyzed to determine how much avanir and its parent company, otsuka, have spent on payments to doctors for promotional speaking, consulting and other services as well as on travel reimbursements and free meals given to doctors targeted by salespeople. using these doctors' names, addresses and medical specialties, cnn used 2015 part d prescriber data to look up how many nuedexta claims they filed with part d in 2015 to determine that at least45% of the part d nuedexta claims came from doctors who received at least one nuedexta-related payment or meal between 2013 and 2015. the 2016 prescriber data is not available.
+
+drug sales and and pricing
+
+the reporters also obtained hundreds of pages of internal avanir emails and other documents, read through us and japanese investor presentations and company filings, and gathered prescription drug data from a number of sources. these included sales figures and capsule counts from data provider quintilesims (nuedexta sales and profit data are not publicly available from the company). reporters also reviewed government reimbursement data from evaluatepharma and january 2017 pricing data from first databank inc., which tracks a commonly used drug price indicator known as the wholesale acquisition cost (wac). according to first databank, the wac "represents published catalogue or list prices and may not represent actual transactional prices." read more about the firm's methodology here
+
+company response

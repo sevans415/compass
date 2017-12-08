@@ -1,0 +1,125 @@
+everyone loves a good life hack, especially when they are to do with netflix.
+
+with this in mind, everyone should thank reddit user a_alexandre who discovered netflix has a category of programs that offer audio descriptions  a voiceover narrating what is happening in a particular scene.
+
+in essence, the feature will turn netflix content into an audiobook so you can keep up with your favourite shows and movies even if you cant sit down to watch them.
+
+having used the feature, its impressive to see the level of detail the audio description uses to paint a vivid picture of the scene when action is taking place.
+
+and in case you were wondering, the narration doesnt go over character dialogue in the show.
+
+when you play the movie, turn on audio description in the same way you would for adding subtitles, the user explained.
+
+finding compatible content is as easy as typing audio descriptions in the search menu, which will bring up a long list of movies and tv shows.
+
+at the moment there are around 50 titles available that offer the service, with stranger things, the punisher, narcos, beauty and the beast, and star wars: rogue one just some of popular selections available.
+
+the hack comes after it was revealed there was a number of secret codes that reveal hidden content on your netflix service.
+
+by making a small tweak to the netflix url, you will be able to unlock hyper-specific genres such as religious documentaries or cerebral french-language dramas from the 1960s.
+
+to manually explore categories usually hidden by the streaming service, you will need to enter the following url: http://www.netflix.com/browse/genre/insertnumber.
+
+then, simply replace the insertnumber component of the url with one of the codes needed to access the alternative genres.
+
+to get you started we have listed three collections of codes below.
+
+action & adventure
+
+1365 = action & adventure
+
+77232 = asian action movies
+
+46576 = classic action & adventure
+
+43040 = action comedies
+
+43048 = action thrillers
+
+8985 = martial arts movies
+
+2125 = military action & adventure
+
+7442 = adventures
+
+10118 = comic book and superhero movies
+
+7700 = westerns
+
+10702 = spy action & adventure
+
+9584 = crime action & adventure
+
+11828 = foreign action & adventure
+
+comedies
+
+6548 = comedies
+
+869 = dark comedies
+
+4426 = foreign comedies
+
+1402 = late night comedies
+
+26 = mockumentaries
+
+2700 = political comedies
+
+9702 = screwball comedies
+
+5286 = sports comedies
+
+11559 = stand-up comedy
+
+3519 = teen comedies
+
+4922 = satires
+
+5475 = romantic comedies
+
+10256 = slapstick comedies
+
+7627 = cult movies
+
+8195 = b-horror movies
+
+1252 = campy movies
+
+10944 = cult horror movies
+
+4734 = cult sci-fi & fantasy
+
+9434 = cult comedies
+
+4195 = independent comedies
+
+documentaries
+
+6839 = documentaries
+
+3652 = biographical documentaries
+
+9875 = crime documentaries
+
+5161 = foreign documentaries
+
+5349 = historical documentaries
+
+4006 = military documentaries
+
+180 = sports documentaries
+
+90361 = music & concert documentaries
+
+1159 = travel & adventure documentaries
+
+7018 = political documentaries
+
+10005 = religious documentaries
+
+2595 = science & nature documentaries
+
+3675 = social & cultural documentaries
+
+this story originally appeared in news.com.au.

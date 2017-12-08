@@ -1,0 +1,37 @@
+facebook is using artificial intelligence to help with a number of different issues, the latest being spotting posts of people who may be suicidal in an effort to prevent them from harming themselves.
+
+the company is also using machine learning and other automated techniques to help spot and delete terrorist-related content from isis and al qaeda, with the company claiming 99 percent of content it removes is detected before it is spotted by users.
+
+"we do this primarily through the use of automated systems like photo and video matching and text-based machine learning," wrote monika bickert, facebook's head of global policy management, and brian fishman, head of counterterrorism policy, in a post.
+
+facebook, youtube, twitter and microsoft join up to battle terrorist content
+
+al qaeda and isis have been a priority for the social networking giant because of the way it is focusing its techniques.
+
+"a system designed to find content from one terrorist group may not work for another because of language and stylistic differences in their propaganda," bickert and fishman wrote. "because of these limitations, we focus our most innovative techniques on the terrorist groups that pose the biggest threat globally, in the real-world and online. isis and al qaeda meet this definition most directly, so we prioritize our tools to counter these organizations and their affiliates."
+
+as soon as content is flagged for potentially being terror-related, facebook said 83 percent of that content is ultimately removed and any copies of that content are removed within an hour of the time they are posted.
+
+facebook also noted that there have been instances where the content was removed "before it goes live on the site," thanks to systems like photo and video matching and text-based machine learning.
+
+not working alone
+
+facebook has acknowledged that it cannot combat terrorist content by itself and has teamed up with experts from around the globe.
+
+over the summer, facebook partnered with microsoft, twitter and youtube to form the global internet forum to counter terrorism (gifct) in an effort to battle terrorist content on their respective platforms.
+
+the company also said it has expanded its partnerships with several anti-terrorism and cyber intelligence organizations around the world, including flashpoint, the middle east media research institute (memri), the site intelligence group and the university of alabama at birminghams computer forensics research lab in an effort to "flag pages, profiles and groups on facebook potentially associated with terrorist groups for us to review."
+
+social media fueled the rise of 'fake news'
+
+more work to be done
+
+still, the company has more work to do and noted that deploying artificial intelligence in this matter is "not as simple as flipping a switch." bickert and fishman wrote that, depending upon the technique used, databases have to be carefully curated or humans have to code the data in order to train the machine.
+
+global intellectual property enforcement center (gipec), a software company that monitors illegal activity and terror-related social media accounts, found at least one pro-isis facebook account that has not been removed, providing screenshots of the account to fox news.
+
+for its part, facebook has acknowledged that it can and will do more. "as we deepen our commitment to combating terrorism by using ai, leveraging human expertise and strengthening collaboration, we recognize that we can always do more, bickert and fishman added.
+
+ceo mark zuckerberg has also talked about facebook's strategy for using ai, saying in february it would take "many years" for the system to be fully developed.
+
+follow chris ciaccia on twitter @chris_ciaccia

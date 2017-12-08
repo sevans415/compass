@@ -1,0 +1,81 @@
+the microwave, which was invented after world war ii, revolutionized cooking by heating food in seconds.
+
+now, experts say the kitchen is poised for yet another reinvention. the next wave will be fueled by smart appliances, voice technology and 3d printers.
+
+whirlpool (whr) has already teased a concept for the smart kitchen. it includes touchscreens that populate recipes from pinterest, a refrigerator that reminds you when you're low on milk and the ability to heat up a meal, such as a bowl of soup, by placing it anywhere on the counter, thanks to detection sensors.
+
+while we're still at least 10 to 15 years away from a fully connected kitchen, most of this technology already exists. the biggest challenge is getting devices made by different companies to communicate.
+
+zoe leavitt, senior retail and consumer packaged goods analyst at research firm cb insights, told cnn tech the future of the kitchen comes down to one ingredient: data.
+
+"the next generation of connected appliances will be able to make data actionable," she said.
+
+for example, your refrigerator could sync up with a fitbit to make food suggestions based on your health goals. cabinets could include touch sensors that track what food you take out. over time, the kitchen could serve up estimates for how many calories you eat every day.
+
+"this data could also be shared with grocery stores to support automatic delivery or algorithms predicting you might like a new product," leavitt said.
+
+related: the future of getting dressed: ai, vr and smart fabrics
+
+the refrigerator as the hub
+
+the refrigerator is already emerging as the communication hub for smart products in the kitchen.
+
+samsung's family hub ($3,300) smart refrigerator touts an hd touchscreen that can be used to search the internet, play music or shop for groceries. inside, two cameras allow you to see what items needs replacing -- you can pull up the corresponding app at the store to view footage on your smartphone.
+
+but the fridge's power elevates when it communicates with other appliances. this means, in theory, a blender could download recipes from the internet based on what food you have in stock, according to rebecca chesney, research director at the institute for the future's food futures lab.
+
+"the fridge can check what's [inside], and then reorder what's needed so that you can make that smoothie the next morning," chesney said.
+
+other tech companies are eyeing the fridge, too. amazon (amzn, tech30) filed a patent application for a smart refrigerator with sensors that detect if items have spoiled. a push notification would then be sent to your smartphone.
+
+while the application may seem like a curious move for amazon, it could serve as a new way to gather data and automatically ship new products to consumers, according to leavitt.
+
+amazon in particular has made a push into the home with connected products like its echo smart speakers and dash buttons, allowing users to reorder items like laundry detergent and toilet paper by pressing a physical button.
+
+drones could also play an important part in delivering items, including food. amazon has been granted patents for various drone initiatives this year, such as for a special shipping label with a built-in parachute for deliveries.
+
+leavitt believes drones could potentially deliver groceries through special kitchen windows and even put items in the fridge for you.
+
+"[we could possibly see] refrigerators installed in front of 'trap doors,' and drones could deposit food directly into the refrigerator through the hatch," she said.
+
+related: can you bbq ribs with no backyard? we tried
+
+cooking with a 3d-printed twist
+
+while tech companies continue to crank out smart kitchen gadgets, the maker of a 3d food printer called foodini, sees a future with fewer appliances.
+
+"you'll see a mash up of kitchen functionality and appliances and devices that do more," said lynette kucsma, cofounder and cmo of natural machines, which makes foodini.
+
+by placing fresh ingredients into the device, the device 3d prints food in different shapes and sizes. for example, users could put fresh dough into the foodini and print it out pasta.
+
+foodini, which costs $4,000, intends to produce healthier snacks and meals like crackers, chips or pasta using natural ingredients without preservatives.
+
+although it doesn't have the ability to cook food yet -- and is currently limited to professional kitchens -- kuscma hopes her product will eventually impact the way people cook at home. users could potentially create a dessert that stops printing after it reaches 200 calories.
+
+but john coupland, a food science professor at pennsylvania state university, said the success of kitchen gadgets like 3d food printers will depend on whether they can create food that isn't easily made with other devices.
+
+"kitchens are very limited in the space they have available," he said. "at the moment, i don't really see [it catching on]. who is going to give up the counter space?"
+
+the tech behind it
+
+at the core of the future kitchen is what experts call the internet of things -- when products, from toasters to cars, connect to networks and can communicate with mobile devices and each other.
+
+however, the challenge is that these devices are siloed and generally only communicate with their own apps or within their ecosystem. for example, products that are compatible with apple's homekit software may not work on samsung's smartthings platform.
+
+"there are certainly no real standards about how these different applications or devices all have to connect into a single system," said jonathan collins, research director at abi research, who heads the firm's smart home coverage.
+
+"more and more players want to stake their claim to having that data feed," he said. "they're all carving out their own niches and way of attracting customers, but they're not doing that in a standardized way."
+
+adopting an open standard or companies developing more partnerships with each other could help fuel consumer adoption.
+
+related: williams-sonoma places $112 million bet on ar shopping
+
+the smart kitchen also raises familiar questions about the impact of automation on our lives. for example, ibm (ibm, tech30) and samsung (ssnlf) have unveiled a concept that would allow an appliance like a refrigerator to coordinate its own maintenance, communicate with a retailer or order its own supplies.
+
+but even as appliances get smarter, food futures lab's chesney believes not everything will be automated in the kitchen.
+
+"a lot of these technologies are framed around saving you time in the kitchen," she said. "it's more about how can the technology enable me to do the things that i would like to do."
+
+others raise questions about whether the smart kitchen will take out some of the fun and social aspect out of preparing food. but perhaps that will depend on how you feel about cooking.
+
+"we've seen technology reach into so many aspects of life," abi research's collins said. "is it better or is it worse? is it for convenience or is it taking away a moment of pleasure? that's entirely up to the individual."

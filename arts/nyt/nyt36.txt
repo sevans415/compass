@@ -1,0 +1,21 @@
+net-neutrality defenders also worry that some service providers could slow down high-data peer-to-peer traffic, like bittorrent. and again, it has happened, most notably in 2007, when comcast throttled some peer-to-peer file sharing. the f.c.c. declared this to be a violation of its network neutrality policy; comcast got that policy overturned in court, though it also settled a class-action lawsuit by customers (the current net neutrality rule was put in place by the obama administration).
+
+newsletter sign up continue reading the main story sign up for the opinion today newsletter every weekday, get thought-provoking commentary from op-ed columnists, the times editorial board and contributing writers from around the world. please verify you're not a robot by clicking the box. invalid email address. please re-enter. you must select a newsletter to subscribe to. sign up you agree to receive occasional updates and special offers for the new york times's products and services. thank you for subscribing. an error has occurred. please try again later. view all new york times newsletters.
+
+but even today, service providers can and do throttle peer-to-peer sites, as a necessary network management technique  something explicitly allowed by the rules. some university networks also slow peer-to-peer traffic, so that other kinds of traffic are not slowed down. this has nothing to do with service providers slowing down websites that have not paid a fee.
+
+so why am i not worried? i worked for a telecommunications company for 25 years, and whatever one may think about corporate control over the internet, i know that it simply is not in service providers interests to throttle access to what consumers want to see. neutral broadband access is a cash cow; why would they kill it?
+
+even if they wanted to, service providers would have a hard time extorting money from huge companies like google and netflix, because each service provider needs google and its billions of users a lot more than google needs it. service providers could try to go after smaller websites, but they dont have much money to pay.
+
+and theres still competition: some markets may have just one cable provider, but phone companies offer increasingly comparable internet access  so if the cable provider slowed down or blocked some sites, the phone company could soak up the affected customers simply by promising not to do so.
+
+recently, net neutrality proponents have pointed to portugal as an example of their nightmare scenario. a mobile carrier there offers various internet packages  one optimized for users who like video, others who like email and so on. what the carrier does not do is offer only those things, precisely because no consumer is likely to buy just video or just email (and in any case, portugal is governed by the european unions net-neutrality rules).
+
+the internet did not start out as a neutral invention. instead, neutrality was an organic outcome of a competitive market. in the early days of the commercial internet, aol and @home had walled gardens of content that users could get to more easily, but over time service providers stopped favoring sites and just gave customers fast, neutral internet connections. no government policy created that outcome.
+
+the good news is that we will soon have a real-world experiment to show who is right and who is wrong. the united states will get rid of its rules, and the european union and canada will keep their stringent regulations. in two years, will the american internet be slower, less innovative and split into two tiers, leaving canadians to enjoy their fast and neutral net?
+
+advertisement continue reading the main story
+
+or, as i suspect, will the two markets remain very similar  proving that this whole agonized debate has been a giant waste of time? lets check back in 2019. 
