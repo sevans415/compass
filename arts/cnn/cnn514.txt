@@ -1,0 +1,53 @@
+the cvs-aetna deal could serve as a major test of the trump administration's resolve to live up to its newfound reputation as a tough-as-nails antitrust cop.
+
+the justice department signaled it would be a strict antitrust enforcer when it sued last month to block at&t's acquisition of time warner, the parent company of cnn. that's significant because the at&t-time warner and cvs-aetna deals share many similarities.
+
+both are considered vertical mergers because the companies do not compete with one another. in both cases, the company that provides a service directly to customers is trying to buy one of its suppliers.
+
+at&t would control time warner's content that airs on at&t's directv and u-verse offerings. cvs would control aetna, whose doctors prescribe drugs that are insured and sold by cvs.
+
+prior to at&t-time warner, vertical mergers were practically guaranteed approval. but by taking at&t and time warner (twx) to court, trump's justice department could be the first since the carter administration to challenge a vertical merger through the court system.
+
+just because it's a vertical merger doesn't mean regulators will block cvs (cvs) from buying aetna. the trump administration has approved other vertical mergers, including amazon's purchase of whole foods.
+
+"every case is fact-specfic," said david balto, a clinton administration policy director for the federal trade commission, another antitrust regulator. "other cases of vertical mergers don't raise competitive concerns."
+
+related: trump justice department puts corporate america on notice
+
+but the cvs-aetna deal shares another, perhaps more important trait with at&t and time warner: they're both at least partially "defensive mergers," meant to stave off competition.
+
+at&t (t, tech30) is trying to buy a giant content maker to protect itself against netflix and other streaming competitors. similarly, cvs wants to prevent amazon from luring customers away from its pharmacy business.
+
+that could be a dealbreaker: the justice department has recently shown little tolerance for defensive mergers.
+
+when staples claimed in 2015 that it needed to buy officedepot to fend off amazon (amzn, tech30), regulators offered no sympathy and later blocked the deal. halliburton was prevented from buying baker hughes last year, even though crashing oil prices hurt both companies.
+
+regulators also blocked two health insurance mega-mergers earlier this year -- including aetna's proposed deal for rival humana -- despite claims from the insurance industry that the deals were necessary to protect themselves from growing uncertainty in the marketplace.
+
+on the surface, the cvs-aetna merger seems like one that the new antitrust sheriff, assistant attorney general makan delrahim, would at least heavily scrutinize -- if not block.
+
+related: at&t's battle with trump could enter rare territory
+
+yet every deal is unique, with its own particularities. the health insurance market is very different from the media industry. so the justice department will have to weigh each case on its own merits.
+
+"the issues in the cvs-aetna merger are not all going to be similar to those in at&t-time warner," said maurice stucke, antitrust law professor at the university of tennessee and former doj prosecutor in the clinton and george w. bush administrations. "i would expect a careful review, but it's premature to say if the merger will be blocked."
+
+the justice department's argument against at&t's purchase of time warner is that the deal could allow at&t to charge competitors like comcast more to carry turner television networks, including tnt, tbs and cnn.
+
+if comcast refused to pay, those stations could be blacked out for comcast subscribers, and at&t could lure away angry customers with its directv service. (directv would have access to those stations because they'd be part of the same parent company.) at&t has promised the justice department it would settle disputes with content providers in arbitration rather than taking them off the air.
+
+it's not immediately clear that cvs's purchase of aetna (aet) would create a similar situation.
+
+for example, cvs already serves as the pharmacy benefits manager for aetna customers, so cvs wouldn't be adding any share of the market by buying the insurer. one big caveat: the companies negotiate those agreements every few years, so cvs wouldn't have to worry about losing aetna to a rival one day.
+
+stucke said delrahim and the justice department would look at a basic question when considering the deal: could cvs and aetna illegally work together to hurt competing pharmacies and insurance companies, reducing consumer choice and raising prices?
+
+cvs dominates the pharmacy business, but it accepts insurance from express scripts (esrx) and other rivals, not just the cvs-owned caremark plan. and aetna and cvs don't compete much, except in offering drug plans for medicare subscribers.
+
+regulators could approve the deal on the condition of so-called behavioral remedies, under which cvs and aetna would promise to play fair in the marketplace. but delrahim isn't known as a dealmaker. he has said publicly that he shuns that kind of promise. instead, the companies could be forced to sell off some of their medicare business.
+
+in 2010, delrahim was on the other side. he lobbied for comcast when it was trying to merge with nbcuniversal, a deal that was approved in 2011 after the companies agreed to their own behavioral remedies related to net neutrality.
+
+it's hard to read the tea leaves on this deal. the only thing that seems certain is we can throw out our old assumptions about antitrust enforcement.
+
+"we've had 35 years of light antitrust enforcement, and now there are growing signs of skepticism," stucke said. "if companies expected leniency with a republican president -- that assumption is being challenged by the at&t merger."

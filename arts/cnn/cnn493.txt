@@ -1,0 +1,289 @@
+(cnn) i did not arrive in america as a refugee or to join family already here. i owe the start to my life in this country to two things: my father's brilliant mind and a very special document.
+
+daddy was a statistician renowned in his field of probability theory, and in 1975, florida state university offered him a teaching position. we flew across the globe on indian passports and gained entry into america with a visa called h-1, reserved for people such as my father who possessed distinctive skills.
+
+we later applied for permanent residency, my father went on to become a professor emeritus at fsu and in 2008, i proudly became a us citizen
+
+the h-1 visa was designed to attract smart people who were considered the best and the brightest of global talent to fill the gaps in the us workforce. i am a direct beneficiary of that program. without it, my own trajectory would have been very different.
+
+in 1990, the visa was reinvented as h-1b, and it boomed alongside the rise of silicon valley. most h-1bs are awarded to technology workers, though other fields such as science and medicine also benefit. and these days, almost 70% of the visas are awarded to indian nationals.
+
+without the h-1b program, argue its supporters, innovation is sure to suffer and america stands to lose its competitive edge. look at any number of start-ups, and you're sure to find talented folks who reached america on an h-1b. among that elite group is mike krieger , one of the founders of instagram.
+
+but in recent years, abuses and fraud in america's largest guest worker program have surfaced. and now with donald trump in the white house, h-1b is facing fresh scrutiny.
+
+in april, trump signed a "buy american and hire american" executive order that is part of his ambitious plan to restore 25 million american jobs. the president blames h-1b visa holders for stealing us jobs, and his order takes aim at the program. the visas, he said, "should never, ever be used to replace americans."
+
+the criticism fits neatly into prevailing anti-immigrant rhetoric, even though h-1bs are not for immigrants. and to be clear, many h-1b opponents say they don't support building walls or taking other measures to keep foreigners out.
+
+i read trump's harsh words and wondered: how could a visa responsible for my own family's success come under so much fire? when did a perfectly legitimate guest worker system become so controversial? who wins? who loses? has it really become bad for america?
+
+intrigued, i decided to learn more about the h-1b visa.
+
+my conversations led me to other indian americans, and some of their comments surprised me. i reached out to a congressman from silicon valley, a ceo of a tech company who refuses to hire h-1b workers, and a technology worker who lost a fulfilling job and is running for congress to change the system. i even spoke with an h-1b worker from my native india whose story i found heartbreaking.
+
+i learned there were no simple answers to my questions. what i do know is the h-1b visa has become a document coveted by thousands around the globe -- and reviled by just as many in the united states.
+
+a losing lottery?
+
+to understand how the h-1b visa system works, i called one of the nation's foremost experts on the subject: ronil hira.
+
+hira, an associate professor of public policy at howard university, t estified last year before the senate judiciary committee on the impact of h-1b workers. he began with his personal story, one that is not unlike mine.
+
+he was the son of immigrants who left india in the 1950s to seek a better life. his wife's family also arrived in the united states on the same h-1 visa program as my father.
+
+the idea behind h-1b is the same as it was when my father obtained his h-1. it's still employer-sponsored and temporary -- the h-1b is good for three years and is extendable for another three. after that, the holder has to return home unless the employer sponsors him or her for permanent residency -- better known as a green card.
+
+each year, us citizenship and immigration services issues 65,000 h-1b visas to applicants with bachelor's degrees for "specialty occupations." another 20,000 are set aside for those with master's degrees or higher from a us university.
+
+just watched h-1b visas by the numbers replay more videos ... must watch h-1b visas by the numbers 01:16
+
+those caps, mandated by congress, were as high as 195,000 in the early 2000s, and many in the tech industry would like to see them rise again.
+
+"the single stupidest policy in the entire american political system was the limit on h-1b visas," eric schmidt, executive chairman of google's parent company alphabet, recently told an mit audience. "a properly run company is really about having the best people."
+
+the demand for the visas remains high and the competition, intense.
+
+this year, on the morning of april 1, the first-come, first-served application process opened like the gates to a horse race. four days later, it was over. the uscis had received 199,000 visa petitions from employers -- way more than enough to meet the statutory caps.
+
+because of the high number of applications, the visas are then allotted by lottery.
+
+that's where the trouble begins. if the intent is to get the highest-skilled workers to fill "specialty occupations," why is the government using an arbitrary method such as the lottery? although everyone in the lottery is theoretically qualified, chances are some better-qualified applicants will lose out to those with less skill and experience.
+
+another problem: employers are supposed to seek a foreign worker only when they cannot find a qualified american for the job. but that's not how it works, hira tells me.
+
+large firms unfairly snag a chunk of h-1b visas by flooding the application pool. they include familiar names such as google, microsoft and apple, but the biggest recipients are outsourcing companies like cognizant and accenture and indian giants infosys and tata consultancy services, the two top recipients of h-1b visas.
+
+employers must make a good-faith effort to recruit an american worker for a position before seeking an h-1b visa, but they don't have to document their efforts.
+
+"the actual rules don't require companies to look for american workers and specialized skills," hira says. "the definitions have gotten loose. everything in the system is written in favor of the employers."
+
+the big companies have figured out how to play the visa game and take advantage of loopholes, hira says. and the smaller companies, the ones that are more in need of specialized labor, are often out of luck.
+
+the main reason american companies hire h-1b workers through outsourcing firms, hira says, is to save money. a whole lot of it.
+
+employers are suppopesed to pay h-1b workers a "prevailing wage" based on the job and location. but hira's research found that employers were recruiting h-1b labor at entry-level wages, not the average wage for specific jobs.
+
+infosys or tata can save a company up to $45,000 per worker every year, according to hira's analysis.
+
+in 2013, for instance, infosys snared almost 7,000 h-1b visas. the median wage it paid was $70,882, about $20,000 lower than a computer systems analyst in rosemead, california. that's the home of southern california edison, a utility that replaced more than 300 american it workers with h-1b workers employed by infosys. hira cites a compensation study that showed edison it specialists were earning an average annual base pay of $110,446.
+
+the lower salaries at infosys and other outsourcing firms are still attractive to thousands of tech workers in india, who average only $6,000 a year and clamor for an opportunity to work in the united states.
+
+neeraj gupta came from india to america as a graduate student and then was hired on an h-1b by a silicon valley firm, which later sponsored his green card. gupta went on to found his own tech company, which was ultimately acquired by an indian outsourcing firm.
+
+in 2009, after witnessing the offshoring of jobs, gupta began looking into solutions that would create american jobs in technology services.
+
+"with respect to president trump, there is truth in what he is saying," gupta tells me. "the premise of the visa is accurate. the challenge is how it has been hijacked by the it outsourcing industry."
+
+hira, too, believes the good intent of h-1b has been overrun by corporations that cannot see beyond their profit margins.
+
+he was in favor of h-1b, he told the senate committee last year. but it was imperative to fix a broken system.
+
+"high-skilled immigration has directly benefited my family enormously," hira told lawmakers. then, he issued this warning:
+
+"thousands of american jobs will be offshored. tens of thousands of american workers will have their wages depressed. and thousands of american students will be denied opportunities. that's one lottery american workers and students are guaranteed to lose."
+
+laid off and forced to train his replacement
+
+craig diangelo lost big to h-1b.
+
+at first, he kept quiet, in line with an agreement he signed to not disparage his employer. but he was so incensed by the injustice at his workplace he could not stay silent.
+
+not only did diangelo, 65, lose his job to a less-skilled, lower-paid foreign worker, but he was forced to train his replacement or face losing his severance.
+
+craig diangelo lost his job at northeast utilities and had to train his replacement, an h-1b worker.
+
+he'd worked in information technology all his life, but the sudden job loss dimmed his future considerably. so much so, that diangelo is now running for office.
+
+frustrated by the inaction of lawmakers to reform america's guest worker program, diangelo is running as a republican to unseat democrat elizabeth esty in connecticut's 5th congressional district.
+
+"i would like the law to change," diangelo says. "you cannot bring over an h-1b worker to replace an american."
+
+diangelo had always wanted to be a schoolteacher, but after finishing his degree in education in the mid-1970s he couldn't find a job. instead he went to work for travelers insurance cos. in hartford, connecticut.
+
+he began as a cobol programmer, and his career evolved over the decades as the tech industry changed. in his last full-time position at northeast utilities in berlin, connecticut, diangelo helped support the company's storage architecture. he made $130,000 a year.
+
+"it was a wonderful job," he tells me. "it paid me well. i worked with a great group of people."
+
+that began unraveling when a merger with a smaller company led to changes in management. in october 2013, the new managers gathered the 220 employees in diangelo's unit and bluntly announced that their jobs were going to infosys and tata consultancy services.
+
+"why were we not given the first rights to re-apply for our jobs?" diangelo says. "why was i not given the opportunity to go to infosys and say: 'i would like to apply for this position?' "
+
+to make matters worse, diangelo was told he would have to engage in "knowledge transfer" and train his indian replacement.
+
+"i was in complete disbelief," he says. "i gave my soul to this company. they had been good to me. it didn't make any sense."
+
+he was told his last day would be in december, but that was extended to march and then to may when his employers realized the replacement workers were not ready. they were not high-skilled employees filling a job for which no americans were available, as was the intent of h-1b.
+
+"they were lower-skilled workers," diangelo says. "we had to train them from scratch. my replacement was making half of what i was making. and he had no benefits."
+
+i'd met infosys employees when i visited the company's shiny googlesque campus in bangalore, india, several years ago. they told me how it jobs had opened up opportunities, changed their lives. for the first time in generations, their families aspired to so much more in life.
+
+tech companies are a point of pride in my homeland. the industry is the largest private sector employer in india and constitutes about 10% of the gross domestic product. technology is a big reason why india arrived as a major player on the global stage.
+
+i knew there was a mad rush to apply for h-1b visas at infosys and other outsourcing firms. but what i did not realize is that these eager indians were putting americans out of work.
+
+from diangelo, i was hearing the ugly side of indian tech.
+
+northeast utilities employees put up us flags in cubicles after realizing they would lose their jobs to h-1b workers.
+
+i contacted infosys and tata for comment. tata did not respond. an infosys spokesman told me the company was not granting any interviews regarding h-1b visas. he did, however, send me this statement:
+
+"we continue to invest in the local communities in which we operate, including hiring local american top talent, bringing education and training to our clients to shrink the skills gap in the us, and working with policymakers to foster innovation within states and across the country. it is our endeavor to help clients leverage the best us talent together with the best global talent."
+
+diangelo says he found it humiliating, depressing even, that he had to stay on -- with his infosys replacement -- at a job he knew would soon vanish for him. but he and his colleagues were older workers close to the top of their salary grades. he knew it would be hard to find employment elsewhere. he had few options.
+
+diangelo trained his replacement in connecticut as well as 11 other workers in india. the company, he says, recorded his webinars, and he guesses his training sessions have been used many times since his departure.
+
+this is how it sometimes works: indian h-1b workers are brought in to replace workers here in america, but subsequently many of the jobs are moved offshore to india.
+
+diangelo and his colleagues on the second floor of the northeast utilities building put up small us flags on their cubicles. as each completed a last day at work, a flag came down. diangelo was the last. when he returned after a weekend to turn in his company badge, only his flag remained. then, that, too, was gone.
+
+i asked for an interview with a manager at northeast utilities, now called eversource energy, and was sent a statement via e-mail:
+
+"three years ago we made strategic changes to our it department to support the merger of two companies and keep pace with changing technologies to better serve our customers," the statement read. "as an electric and gas delivery business, we did not have the internal capabilities to efficiently meet the growing technology needs of the larger, combined company."
+
+eversource, said the statement, uses infosys and tata to perform some of its it functions, and that employees such as diangelo who were affected were offered comprehensive severance packages, career transition and training services and extended health care coverage.
+
+this has nothing to do with immigration. we have a bill out there that allows foreign workers to take american jobs. craig diangelo
+
+eversource is hardly the only us entity that has been accused of laying off americans in favor of cheaper indian labor.
+
+employees at the university of california, san francisco, had to train their replacements from an outsourcing firm. so did technology workers at walt disney world, new york life, toys r us and southern california edison.
+
+and these are just the cases that have surfaced publicly because of lawsuits and employees such as diangelo who risked losing their severance by speaking out.
+
+diangelo says he holds nothing against his replacement worker from infosys, nothing against immigrants. he blames the system that allows this to happen.
+
+this year, he watched as the h-1b application date of april 1 approached. he had counted on trump to put a moratorium on the visas. but now, he says, 85,000 more foreign workers will arrive in the united states in the coming months.
+
+"that means another 85,000 americans will lose their jobs," he says.
+
+"every time i talk to my senators and congressmen, they say we need a comprehensive immigration bill," he says. "but these are two separate things. this has nothing to do with immigration. we have a bill out there that allows foreign workers to take american jobs."
+
+"the government needs to make changes to the h-1b program," he says. "even the lawmakers who made this law say it has been hijacked."
+
+diangelo is referring to bruce morrison, a former connecticut congressman who sponsored legislation creating the h-1b visa system but is now a vocal critic.
+
+several bills that aim to reform h-1b have been introduced in both the house and senate this year. one of the co-sponsors of a house bill is rep. ro khanna, an indian-american from california's 17th congressional district in the south san francisco bay area and the heart of silicon valley.
+
+again, i thought of my own family as i read khanna's bio. he was born in philadelphia to parents who immigrated in the 1970s from india. because of his background and because he represents so many who work in the tech industry, khanna has taken heat for his stance on h-1b.
+
+please note: ro khanna, an indian american politician funded heavily by nris, is championing restrictions on h1b: https://t.co/glrddlytlg  rajiv malhotra (@rajivmessage) march 3, 2017
+
+khanna tells me his silicon valley voters understand the need for reform. he says that as the son of immigrants, he understands the contributions of people who come from other lands. but their contributions cannot come at the expense of american workers.
+
+"we need change so you don't have underpaid foreigners taking away american jobs," he says. "this bill is pro-immigrant and pro-american worker."
+
+at the end of my conversation with diangelo, he tells me the infosys h-1b employee he trained wanted to be his friend.
+
+"i couldn't allow myself to do that. i did not have hard feelings against him. but he was taking my job."
+
+diangelo took early retirement; he did not want to transition into a new career so late in life and eventually found contract work in it. many of his co-workers, he says, are still unemployed.
+
+"we don't go out as much or give to charities," he says of himself and his former colleagues. "it has a downward spiral effect. a long-lasting one. it affects the morale of people."
+
+every time he pumps gas at his local costco, he looks up at the eversource compound on a hill and thinks: my job is still there.
+
+employees on the bangalore, india, campus of infosys, a tech giant that is one of the top recipients of h-1b visas.
+
+growing demand
+
+on a recent morning, i visit monty hamilton, ceo of rural sourcing inc., a technology outsourcing company based in atlanta.
+
+there are no h-1b workers here. it goes against the mission of the company, hamilton tells me.
+
+hamilton grew up in a two-stoplight town in mississippi. when he chose vocation over location, he was forced to chase his dreams in a big city. he began his career with accenture, another big recipient of h-1b visas, before taking the reins at rural sourcing in 2008.
+
+the company's goal was to find smart it employees, not in foreign countries but in secondary us cities outside silicon valley: albuquerque, new mexico; mobile, alabama; augusta, georgia.
+
+"we do need to import some talent, but we need to do a better job in training the us workforce to get into this field that is changing so fast," he says.
+
+though he won't hire h-1b workers, hamilton says it's folly to think the visas can be done away with altogether.
+
+his fifth-floor office overlooks the campus of georgia tech. he tells me that all the foreign students who are about to graduate will be forced to go home unless they find employer-sponsored h-1b or other visas.
+
+"why in the hell would we allow that?" hamilton says.
+
+america has 500,000 tech jobs open today, he tells me. and only 43,000 students who graduated with computer science degrees last year, he says, citing code.org.
+
+"how long does it take to fill a tech job? an average of 65 days. that tells me there is a shortage," hamilton says.
+
+whether or not there truly is a shortage is the subject of much debate, i discovered. it often depends on the interpretation of statistics.
+
+i read a petition that entrepreneurs including bill gates, jeff bezos and tim cook co-signed with educators, nonprofits and governors from both political parties urging increased computer science education. "there are currently over 500,000 open computing jobs, in every sector, from manufacturing to banking, from agriculture to healthcare, but only 50,000 computer science graduates a year," the letter said.
+
+but i also read an economic policy institute analysis that found american colleges graduate 50% more students in engineering and computer and information science than are hired in those fields each year.
+
+shortage or not, the bureau of labor statistics predicted the number of technology jobs will rise from 3.9 million in 2014 to about 4.4 million in 2024. part of the demand for tech jobs is due to the growing "internet of things," including cloud and mobile computing.
+
+"technology is changing fast," hamilton says. "we do need to import some talent, but we also need to do a better job in training the us workforce."
+
+i leave hamilton's office and come across a group of young indian engineering students enrolled at georgia tech. they tell me they want nothing more than to stay here for a job. if they don't get one right away, they will go home and try to return with an h-1b visa.
+
+they talk about it as though it were a coveted prize, a ticket to success.
+
+just watched indian official says h-1b visas bolster jobs replay more videos ... must watch indian official says h-1b visas bolster jobs 01:31
+
+'techsploitation'
+
+for days, i ponder something craig diangelo told me. he realized his indian h-1b replacement was also in a difficult position -- he had no idea he was going to america to take someone else's job.
+
+h-1b workers brought over by outsourcing firms often don't know the circumstances they are about to face. they, too, are part of an abusive system, say h-1b critics.
+
+the exploitation of indian h-1b workers essentially amounts to indentured servitude, according to the center for investigative reporting, which exposed what one worker called "an ecosystem of fear."
+
+in a class-action lawsuit filed in california, h-1b workers described staffing agencies known as "body shops" that enticed workers to the united states and filed for their h-1b visas. instead, when they arrived, the workers were huddled together in cramped "guest houses" and paid no wages until they were placed with a technology firm.
+
+h-1b workers described having to pay the staffing agencies, pay for travel to jobs in other states and falling into debt before they even earned a penny.
+
+because h-1b visas are sponsored by companies, the employees are beholden to them. they risk losing their jobs and being sent back to india if they complain too loudly.
+
+"it's human trafficking. they are being bought and sold," says jack "jay" palmer, a former infosys employee who brought a whistleblower lawsuit against the technology giant in 2012 alleging visa fraud.
+
+palmer accused infosys of illegally using business visitor visas known as b-1 to fill positions in the united states. the b-1 visas are easier to obtain and have lower fees than h-1bs and are intended for short stays to attend meetings and training sessions.
+
+the lawsuit led to a federal investigation, and infosys eventually agreed to a $34 million civil settlement with the justice department.
+
+i catch palmer on the phone as he's driving to the atlanta airport for a flight to washington. he says he's meeting with sen. chuck grassley, an iowa republican and a sponsor of the senate h-1b reform bill.
+
+"i believe in the american dream. i have nothing against h-1b and green cards," palmer says. "i just want to see the law enforced."
+
+a few hours later, i get a call from an indian man whom palmer has been helping. he tells me he is from hyderabad, another technology hub in india, and was sponsored for an h-1b visa by tata consultancy services.
+
+he fears repercussions at his job in new york and speaks with me only after i agree to withhold his identity.
+
+he says he worked in india for a decade before he came to america on an h-1b and was "body-shopped." he was placed in a job with a published salary of $45 an hour, but after the body shoppers and the outsourcing companies take their share, he only makes about $29.
+
+the man is 45 and has a wife and two children -- 8 and 12. his expenses amount to about $5,000 a month, about $1,000 more than what he takes home. he has fallen into debt and no longer has the ability to climb out of it.
+
+"we cannot save any money," he says. "i have $20,000 in credit card debt, and i owe $15,000 for my car."
+
+"why don't you go back home to india?" i ask him.
+
+"i do not even have money to buy tickets," he says.
+
+he says he feels lucky, though. at least he is not in a "guest house" waiting for work.
+
+life, he says, goes on in limbo.
+
+he says he was promised sponsorship for a green card but was asked to pay a $25,000 fee he couldn't afford. i spoke with another indian h-1b worker in atlanta who has applied for a green card, but the backlog is so great for indian citizens that it can take up to 10 years or more. until then, h-1b workers remain tethered to their employers.
+
+"my dream was to come to america, but i don't want to stay here with this kind of life," the man in new york says. "but i have no choice. i replaced american workers, but i am a victim, too."
+
+the man in new york is not alone. there are thousands of workers like him, palmer tells me.
+
+palmer and other h-1b reformers want accountability.
+
+they say us companies must be required to document their searches to fill positions with american workers. employers must pay prevailing wages and be prevented from subcontracting or outsourcing h-1b jobs.
+
+reform advocates are pushing for a system of government enforcement and oversight of the h-1b regulations, not one that is reliant on whistleblowers to expose abuse.
+
+technology is here to stay. and it is changing at warp speed. the demand for smart talent is not going away. that's why even the biggest critics of h-1b are the most ardent backers of reform, not elimination.
+
+what i hear them saying is the system ought to work the way it used to, when my father obtained an h-1 visa. he was hired for a job he was uniquely qualified for, and he was compensated with a decent wage.
+
+no one wants to see americans lose their jobs unfairly, and if my father were still alive, i know he'd be troubled by what i learned about the current h-1b program.
+
+i also know he would be heartened to see that some of the most ardent backers of visa reform are indian americans. after all, we are the ones who have most reaped the rewards of h-1b.

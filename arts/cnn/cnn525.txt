@@ -1,0 +1,67 @@
+cher horowitz's closet from the film "clueless" had a futuristic computer system that helped her put together outfits. back in 1995, the concept teased what it might be like to get dressed in the future.
+
+technology has evolved a lot since then, but closets have been largely untouched by innovation.
+
+now, that's starting to change.
+
+"if algorithms do their job well, people will spend less time thinking about what to wear," said ranjitha kumar, an assistant professor in the department of computer science at the university of illinois at urbana-champaign.
+
+from artificial intelligence and gadgets to smart fabrics and virtual reality, technology is poised to breathe innovation into not only how we dress but how we shop.
+
+the most recognizable example is amazon's echo look, which received significant buzz when it was announced earlier this year. the gadget ($200) serves as a style assistant to help you decide what to wear.
+
+like amazon's other smart speakers, the echo look will tell you the weather or play music. but the oval-shaped product also has a voice-controlled camera for taking photos of you in various outfits. it works alongside an app.
+
+related: amazon's $200 echo look will judge your outfits
+
+after snapping photos of you in two outfits in front of the device, its built-in style check tool decides which one is best. it leans on a combination of machine learning technology and human opinion.
+
+amazon's "fashion specialists" train the software to be a judge of style. the automated results consider "fit, color, styling, seasons and current trends." it'll also suggest similar styles to buy from various brands. through testing, we found that the suggestions can be hit or miss.
+
+"the brand selection is pretty limited, and while the echo look may help you decide between two looks, it can't take into account the total context of where you're going," said personal stylist and creative director taylor okata.
+
+okata, whose clients include e! and self magazine, doesn't consider the technology a threat to his work: "there's just that interpersonal communication that it just doesn't have."
+
+meanwhile, retail experts say the echo look's success will depend on if it adds more value than just asking a friend for fashion advice.
+
+sucharita mulpuru, an analyst at research firm forrester, said those buying the device are early adopters -- and it lacks widespread appeal.
+
+"it's such a foreign concept to rely on a device to tell you what to wear," she told cnn tech.
+
+related: new app backed by kim kardashian wants to be fashion's shazam
+
+other companies are embracing augmented and virtual reality to help people decide what to wear. for example, startup obsess builds augmented and virtual reality shopping platforms so customers can shop without having to go to a store.
+
+in july, the company partnered with vera bradley to roll out vr experiences at 10 of its stores. while wearing a google daydream vr headset, shoppers can move a bed around in vr, and see vera bradley comforters, quilts and pillows up close in a virtual store.
+
+"if you think about e-commerce, every brand and every product essentially looks the same online," said obsess ceo and founder neha singh. "it's identical looking, white background product shots, and that doesn't encapsulate what the brand is about. we are building the technology that will enable any brand and retailer to create discovery-based shopping experiences."
+
+apple's new augmented reality platform builds on a similar concept, allowing developers to create augmented reality apps. for example, the new ikea place app lets users preview furniture virtually within their home. the tool has more widespread appeal because it doesn't require a headset.
+
+fabrics are getting smarter, too. earlier this year, jansport unveiled a prototype for a high-tech backpack with programmable fabric. the backpack lets users share a song, music video, facebook page or website link with anyone nearby by holding up their smartphone and using a corresponding app. the backpack could give teens a new way to express themselves.
+
+the concept comes from mit professor yoel fink, the ceo of advanced functional fabrics of america, a nonprofit that aims to reinvent fabrics as programmable devices.
+
+"fabrics are among the earliest forms of human expression and they've been around for thousands of years," fink said. "but they really haven't changed much from a functional perspective. our goal is to change what fabrics [do]."
+
+the team's latest prototype is a sports jersey that would let spectators at a game scan an app over players to see their stats, such as rebounds, assists and points. the group will soon test the new jerseys with the mit basketball team.
+
+related: jansport's high-tech backpack shares your social media
+
+artificial intelligence could also have a big impact on style, especially as a tool to help retailers predict trends and keep fashion houses ahead of the curve. researchers are already working on such solutions using ai and machine learning.
+
+for example, kumar from the university of illinois and her team are looking at algorithmically identifying fashion "influencers" and emerging trends.
+
+using machine learning techniques that analyze the content of tweets, the group has identified more than 27,000 fashion-related accounts on twitter as the top trendsetters.
+
+"we're now tracking these influencers and the content they post to model micro-trends and predict their lifetime," she said.
+
+however, the challenge is the speed at which fashion trends change. they can go in weeks or sometimes even a few days, according to kumar.
+
+kavita bala, a professor in the computer science department at cornell university, is also analyzing social media platforms to look for fashion trends. for example, her team can plot how often people are wearing a certain clothing item over time for a particular city in the world.
+
+but bala said style recommendation presents another challenge: "people have very distinctive, subtle and individualist style and they're very picky about it."
+
+while some ai approaches are already in the works, other tech, like shopping with a vr headset in your home, is still years away. it's also unclear how quickly consumers would adopt this.
+
+"all of that is becoming possible, but we're not quite there yet," said obsess' singh.

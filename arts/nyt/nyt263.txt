@@ -1,0 +1,3 @@
+select number of bedrooms any beds studio 1 1 or more 2 2 or more 3 3 or more 4 4 or more 5 5 or more
+
+select number of bedrooms any baths 1 1 or more 2 2 or more 3 3 or more 4 4 or more 5 5 or more

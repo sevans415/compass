@@ -1,0 +1,67 @@
+(cnn) after uploading those carefully selected profile photos and writing a well-crafted personal bio for a dating app, you're now thinking, "what type of person am i actually looking for?"
+
+dating apps and sites offer the option to filter matches by sex, ethnicity, height or religion -- but they could be even more personal.
+
+this summer, the gay social networking app grindr caught some criticism for asking in a user survey "what is your current hiv status?" and "how would you feel if grindr allowed you to filter the guys you see by hiv status?"
+
+in a statement, a grindr representative said the survey is an effort to better understand its users and to encourage discussions.
+
+"we have observed a significant increase in user profiles openly discussing their hiv status and test dates. given that this has not been a part of our profile options to date, we are surveying users to determine both their desire to share this information, and ways to prevent stigma and provide proper support," the statement said. "sometimes this involves asking uncomfortable questions."
+
+screenshots of the survey were posted online by daniel reeders , a ph.d. candidate who studies hiv stigma at australian national university. he got the images from a colleague, he said, and called the filter a "digital quarantine."
+
+"dating sites and apps shouldn't ask for hiv status, because there's no way to guarantee that privacy and safety will be protected for people who disclose they are positive," reeders said. "the harassment that 'poz' (hiv-positive) people face can be extreme, even though it's from a small segment of the community. people already have the ability to disclose their status in their profile text, if they choose to do so."
+
+indeed, public health and relationship experts suggest that hiv or other std filters on a dating app might do more harm than good.
+
+more harm than good?
+
+although an hiv filter could have the benefit of letting hiv-positive people meet others -- avoiding potentially awkward and stigmatizing conversations -- it also could have a dark side: creating a false sense of security, said dr. eric schrimshaw , associate professor of sociomedical sciences at columbia university.
+
+some states have laws that mandate the disclosure of hiv status prior to any kind of sexual activity. but for some, a dating app filter could lead hiv-negative people to think that the filtered matches consist of only hiv-negative people, he said. from there, they might engage in unprotected sex.
+
+this could lead to hiv infections because "one, the potential partner might not be telling the truth in order to be able to get partners or to avoid stigma, and also the person may simply have engaged in behaviors recently that result in status change that they just don't know yet."
+
+another concern is that such filters could increase stigma and discrimination against people living with hiv by further isolating them socially and "demonizing the population."
+
+"with more hiv stigma and discrimination, you are going to have less people who will get tested," said dr. gary harper , a public health professor at the university of michigan
+
+since most stds are temporary and treatable, such as gonorrhea and chlamydia, people are more likely to seek treatment as soon as possible, harper said; they wouldn't even think to include them in their dating profiles. but a filter for any incurable std, like herpes, could increase stigma, experts said.
+
+harper added that imposing a filter on dating app users takes away privacy rights: you may no longer have control over who can disclose information about your hiv status on an online network of strangers.
+
+dating apps and the rise of stds
+
+online dating sites and mobile dating applications where users can create profiles and meet with strangers, have become increasingly popular among americans. according to the pew research center , about 15% of adults in the united states are now using online or mobile matchmaking services to seek potential partners, a 36% increase from 2013.
+
+some link the ease of seeking casual sexual partners to the spread of stds. last year, the rhode island health department attributed an increase in std cases to "using social media to arrange casual and often anonymous sexual encounters."
+
+of craigslist led to a 16% increase in hiv cases across 33 states. lead author dr. a 2013 study found that the usageof craigslist led to a 16% increase in hiv cases across 33 states. lead author dr. jason chan , an assistant professor at the university of minnesota, said that although he would expect hiv cases to rise given the trend in dating app use, as people are becoming more cautious about sex, hiv might not necessarily spread.
+
+harper said the relationship between dating apps and the spread of hiv is more complicated than one might think. the association could have more to do with a user's existing tendency to engage in risky sexual behaviors and the prevalence of hiv and other stds in one's dating pool and area.
+
+because of the complexity of the issue, an hiv filtering feature on dating apps would not necessarily be an effective prevention measure, said dr. renata sanders , an assistant professor at johns hopkins university school of medicine.
+
+"there is no evidence suggesting that by dividing people by their hiv status on a mobile app where people meet would work to prevent hiv," sanders said. "what actually helps prevent hiv is knowing your status and using effective measures to curb hiv spread such as condoms and prep," a pill that can prevent the virus.
+
+what are the alternatives?
+
+instead of a filter, experts said, it would be better to leave the choice to users.
+
+letting users self-report hiv and std status on their profiles could open up conversations and prevent misunderstandings that might lead to infection, and it "helps create a norm or a culture on the app where that's a topic that gets discussed prior to meeting," said schrimshaw of columbia university.
+
+some apps, in fact, are already doing that. for example, hornet , a dating app for gay men, has a "know your status" feature that allows users to disclose one of five hiv statuses: "negative," "negative on prep," "positive," "positive undetectable" and "unknown." the app also allows hiv-positive users to search for other positive people, but hiv-negative users don't have the ability to look for only negative users.
+
+dr. ian holloway , a public affairs professor at the university of california, los angeles, said hornet's positive-only search feature can be helpful for hiv-positive men to seek not only partners, but social support and advice. without giving the search to hiv-negative men, the feature could prevent users from having a false sense of security and encourage them to have conversations about hiv with their partners.
+
+alex garner, hornet's senior health innovation strategist, said it is an effort to encourage thoughtful conversation about hiv and gay men's sexual health and to "bridge the divide between hiv-positive and -negative people."
+
+dating apps and sites can play a powerful role in raising awareness about hiv and std prevention without fueling stigmas or discrimination, researchers said.
+
+join the conversation see the latest news and share your comments with cnn health on facebook and twitter.
+
+for example, holloway's 2013 study found that more than 80% of grindr users in southern california are willing to participate in hiv prevention programs delivered online or through mobile apps. the study suggests that apps with geolocating features may consider providing quick reference to nearby hiv testing locations as a way to encourage more men to get tested, raise awareness and help facilitate access to community services.
+
+another recent study found that grindr was an effective way to give out hiv self-test kits to men at risk of infection and reduce the spread of hiv.
+
+sanders, the johns hopkins professor, thinks it is good practice for apps and sites to send out alerts and information about hiv and std prevention and treatment, such as how often one should get tested for which kinds of std and what should get checked when going to see a doctor.

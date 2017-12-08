@@ -1,0 +1,67 @@
+(cnn) a post-antibiotic era is hardly an "apocalyptic fantasy," the world health organization has said . the idea that key antibiotics could be rendered useless against even minor infections "is instead a very real possibility for the 21st century."
+
+but the problem goes back much further.
+
+researchers in france recently looked at historical samples of one salmonella strain dating back as far as 1911. what they found: the genes that make these bacteria resistant to a drug called ampicillin emerged before that antibiotic even went on sale in 1961.
+
+the researchers say this is probably due to another antibiotic that was used in low doses to promote growth in farm animals. that antibiotic, penicillin g, which was widely added to livestock feed in the '50s and '60s.
+
+"it's a different story, then. it's not due to the clinical use of ampicillin" in humans, said dr. franois-xavier weill, head of the enteric bacterial pathogens unit at the pasteur institute. weill published these findings wednesday in the journal lancet infectious diseases.
+
+the idea that one antibiotic can provoke resistance to another is not a new concept, according to dr. jim hughes, professor of medicine and public health at emory university. the genes that protect bacteria from our drugs can even hop across species, riding on circular loops of dna called plasmids. plasmids are often loaded with multiple resistance genes.
+
+antibiotic resistance goes back further still. some genes have even been found in caves that were thought to be isolated for millions of years. but it is modern medicine, experts say, that is responsible for hastening the evolution and spread of resistance at alarming rates.
+
+while researchers have been sounding the alarm for decades, "finally over the last couple of years, it's been getting the attention that has been long overdue and that it richly deserves," said hughes, who is also a co-director of the emory antibiotic resistance center. he was not involved in the new study.
+
+the us centers for disease control and prevention estimates that at least 2 million americans contract antibiotic-resistant infections every year and that 23,000 die as a result.
+
+than those in which first-line antibiotics work, the and these infections are often longer, more costly and more seriousthan those in which first-line antibiotics work, the cdc says.
+
+"it's clearly a problem that's getting worse," hughes said.
+
+a nobel cause
+
+sir alexander fleming, who discovered penicillin, warned of antibiotic resistance at his nobel lecture in 1945.
+
+"the time may come when penicillin can be bought by anyone in the shops," he said. "then there is the danger that the ignorant man may easily underdose himself and, by exposing his microbes to non-lethal quantities of the drug, make them resistant."
+
+in fact, penicillin-resistant bacteria had been identified in 1940, years before fleming gave his speech, according to the cdc.
+
+fortunately, in the mid- to late 1900s, "the pipeline was full of new antibiotics" in development, weill said.
+
+antibiotics were being developed as of may for potential use in humans, according to but these days, we're not keeping pace: fifty-oneantibiotics were being developed as of may for potential use in humans, according to a report by the world health organization.
+
+just 33 of these target "priority pathogens": families of antibiotic-resistant bacteria that pose the greatest threat to human health. only eight are innovative treatments, and the other 25 modify existing antibiotics and are short-term solutions at best, according to the who.
+
+experts say the great majority of these drugs will never make it through clinical trials to treat infections in humans. for this reason, prevention is seen as key.
+
+otherwise, heavily resistant bacteria, some colloquially known as "superbugs," may threaten both our health and our wallets.
+
+"more resistant infections don't just mean you or someone you care about is more likely to die from one; they also mean health care will get even more expensive," bill hanage, an associate professor of epidemiology at harvard t.h. chan school of public health, previously told cnn. "many of the procedures we take for granted in medicine, from cancer treatments to surgeries, depend on our ability to handle infections that happen in the course of treatment."
+
+off the farm
+
+penicillin is not available over the counter in the us, as fleming feared, but patients who skip doses and doctors who incorrectly prescribe antibiotics -- say, for the common cold -- may be adding to the threat of resistance, the cdc says.
+
+similarly, when animals get antibiotics, often in their food or drinking water, the drugs may kill a number of bacteria. but a handful might harbor a gene that makes them resistant to drugs. those bacteria may survive, multiply and spread.
+
+these bugs "can move off of farms ... and find their way into communities," lena brook, a food policy advocate with the natural resources defense council, previously told cnn.
+
+for hughes, the new study "highlights the importance of monitoring the impact of the recent fda action on this ."
+
+by january, animal drug manufacturers no longer allowed medically important antibiotics, which are used in humans, to be prescribed solely for growth purposes, according to the fda. but this left open the possibility that these drugs could be used to routinely prevent disease, even if no animals were sick, so long as a veterinarian had written a prescription.
+
+this drew criticism that the fda's efforts didn't go far enough. some have described this as a "giant loophole."
+
+the new study also reinforces the possibility that antibiotics used among livestock can still exert evolutionary pressure on similar antibiotics that are important for humans, hughes said.
+
+while a number of experts criticize the routine use of antibiotics, others defend the practice, saying that antibiotics play an important role in maintaining animal health and may prevent an entire herd of sick animals that require these drugs down the line.
+
+follow cnn health on facebook and twitter see the latest news and share your comments with cnn health on facebook and twitter.
+
+"while the fda believes the prevention use of antimicrobials in animal agriculture can play an important role in effectively managing animal disease, it is critical that such use be judicious," the agency previously said in a statement.
+
+hughes said that, in the wake of the fda regulations, "it's going to be important as best can be done to monitor changes in antibiotic usage now and ... antibiotic resistance in food animals."
+
+"companies are not that forthcoming with their use of antibiotics in food animals," he added. "there's not a lot of transparency."
