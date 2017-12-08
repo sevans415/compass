@@ -1,0 +1,157 @@
+(cnn) japan's relationship with the energy sector is, at best, complicated.
+
+having virtually no oil, coal or natural gas to fire its power plants, japan was forced to import over 90% of its energy in 2014. it is the world's third largest importer of oil and coal, and the number one importer of liquefied natural gas.
+
+furthermore, its 50-plus nuclear reactors, once considered a brilliant solution to its energy resource dearth, today mostly stand idle following the devastating fukushima daiichi nuclear power plant meltdown , in 2011.
+
+but japanese scientists may have found an innovative end to the country's energy woes.
+
+they are pioneering a new technology that could reshape the global energy industry. even better, a technology that revolves around a resource which japan has in abundance buried under the ocean.
+
+the japanese government wants to burn "flammable ice" for energy.
+
+a new type of energy
+
+worldwide there are up to 2,800 trillion cubic meters of methane-bearing gas hydrates -- a frozen mixture of water and natural methane -- according to the united states energy information administration.
+
+vast reservoirs of this resource are found where high pressures and low temperatures combine -- i.e. buried inside thick arctic permafrost and under deep ocean floors.
+
+possibly the planet's last great source of carbon-based fuel, gas hydrates are thought to contain more energy than all the world's other fossil fuels combined
+
+so far though, no one is close to being able to extract it commercially.
+
+japan is trying. between 2002 and 2017, its government spent around $1 billion on research and development, according to the ministry of energy, trade and industry.
+
+"there are two reasons the government wants to develop this technology," says ryo matsumoto, professor of geology at the gas hydrate laboratory at tokyo's meiji university.
+
+"the first is to secure energy resources -- if they can exploit a domestic resource they will increase their energy security. the second is that they are trying to decrease carbon dioxide emissions from fossil fuels."
+
+natural gas consumption emits roughly half the amount of carbon dioxide that coal does.
+
+"because natural gas is a cleaner source of energy, japan wants to increase the proportion of natural gas used in the entire energy structure."
+
+what is flammable ice?
+
+flammable ice doesn't look that different from something you might use to chill a cocktail, but the similarity stops there.
+
+a scientist holds marine natural gas hydrate trapped in icelike crystals, extracted from the seabed of the shenhu area of the northern south china sea. similar marine natural gas hydrates have been extracted from japan.
+
+these ice crystals hold a remarkable quantity of natural methane gas. it is estimated that one cubic meter of frozen gas hydrate contains 164 cubic meters of methane.
+
+hold a match to the ice and the gas ignites so that instead of melting, it burns. the problem with gas hydrates is that the gas is hard to extract.
+
+the first step, however, is to find the hydrates. in japan, that's not hard.
+
+"japan is rich in reserves within its exclusive economic zone on both the western pacific ocean side and along the eastern margin on the japan sea side," says matsumoto.
+
+engineers have so far focused on nankai trough, a long, narrow depression 50 kilometers off the coast of central japan, which had been extensively surveyed over many years.
+
+analysis of extracted core samples and seismic data has revealed that 1.1 trillion cubic meters of methane -- enough to meet japan's gas needs for more than a decade -- lies below the floor of the trough.
+
+first extraction
+
+in 2013, mh21 (research consortium for methane hydrate resources) , a japanese government-funded research group that brings together industry experts, scientists and policymakers, conducted the world's first extraction tests.
+
+the team positioned the drillship, chikyu, over a formation called the daini atsumi knoll that lies 1,000 meters under the sea, south of the japanese city of nagoya.
+
+"to extract gas, the hydrate must first be melted so that it separates into gas and water," says dr. koji yamamoto, leader of the research group for field development technology at mh21.
+
+photos: japan drills for flammable ice pre-drilling expedition -- feb to march, 2012  the drill ship chikyu before setting sail to the nankai trough for a pre-drilling expedition. hide caption 1 of 5 photos: japan drills for flammable ice pre-drilling expedition -- feb to march, 2012  the team used "logging while drilling" tools to get real-time information about the operation while drilling is being conducted. hide caption 2 of 5 photos: japan drills for flammable ice gas production test -- jan to march, 2013  after the pre-drilling test the year before, a protective structure was installed onto the head of the production well. this prevented anything from falling into the well. removing this structure marks the start of preparations for production testing.
+
+hide caption 3 of 5 photos: japan drills for flammable ice gas production experiment -- april to july, 2017  in 2017, the team began extracting methane from gas hydrates. because they did not yet have the equipment to store the methane, they burned it off. hide caption 4 of 5 photos: japan drills for flammable ice gas production experiment -- april to july, 2017  the team measured the volume of the gas being extracted with a monitoring system. hide caption 5 of 5
+
+the hydrate melts if it is nudged out of its stability zone, which can be achieved by either raising the temperature or lowering the pressure. pumping hot water under the seabed to heat the hydrates would require a lot of energy, explains yamamoto.
+
+"we chose depressurization as the most effective method".
+
+the engineers drilled a well in the sea bed and used a submersible pump to suck water out of the sediments. "as the water level in the sediments drops, the pressure drops. this triggers the surrounding gas hydrates to start separating," says yamamoto.
+
+the water is discharged into the sea, and the freed gas is piped to the surface.
+
+getting closer to gold
+
+yamamoto's team became the first in the world to extract natural gas from offshore gas hydrate reserves. but their operation was short-lived. the venture was shut down after a few days when sand got into the pipe.
+
+earlier this year, the team made a second attempt.
+
+they constructed two production wells and coated the pipes with a special polymer to reinforce them against sand intrusion. one well was still shut down by sand but in the other, the gas kept flowing.
+
+a total of 235,000 cubic meters of gas was extracted, according to mh21.
+
+"we produced a lot of gas but we haven't found a reliable solution for the sand problem yet," says yamamoto.
+
+rivalry with china
+
+japan, of course, is not the only country with its eye on flammable ice.
+
+its old rival china is also hoping to find a relatively clean substitute for smog-producing coal.
+
+after promising reserves were discovered in the south china sea in 2007, the country successfully extracted offshore gas hydrates in may 2017.
+
+the united states has extracted natural gas from hydrates locked under the frozen tundra of alaska's north slope, but with its current glut of cheap shale gas, there is less incentive there to invest heavily.
+
+long term, however, gas hydrates could have a dramatic impact on the global gas market.
+
+"if natural gas could be extracted economically from gas hydrates, it would reshape the energy world," says christopher knittel , professor of applied economics at the massachusetts institute of technology's sloan school of management. "the implications are astounding. the price of natural gas, throughout the world, would be pegged to the price of extracting the hydrates."
+
+a trial mining of flammable ice at shenhu area of the south china sea in hainan, china, and flammable ice mined from this area.
+
+despite a number of technological hurdles still having to be cleared, yamamoto remains cautiously optimistic.
+
+"twenty years ago, nobody believed that shale gas could be used as an energy source. now it can. with the techniques we currently have available, it's less economical than imported natural gas. but in the future, that could change."
+
+environmental impact?
+
+so what are the environmental risks of this technology?
+
+one possibility is that extraction could destabilize the sea floor and send sediment tumbling down the continental slope. in the worst-case scenario, an underwater landslide could trigger a tsunami.
+
+yamamoto says that the possibility of this happening is very low.
+
+"the gas hydrate doesn't melt by itself -- we need to use an external energy source. when we stop the energy input, the process is automatically stabilized."
+
+the area japanese scientists are focused on is seismically active, and the team has also spotted the scars of old landslides on the sea floor. yamamoto says they have addressed these issues by installing "monitoring devices around the test area to detect subsidence, allowing us to investigate the ongoing level of risk."
+
+matsumoto is less convinced.
+
+"if a disaster takes place, we couldn't guarantee that we'd be able to control it by ceasing to inject energy or closing down the depressurization process. the risk is higher in nankai trough because seismologists are warning of the possibility of a 'megathrust earthquake' within a few decades."
+
+a megathrust earthquake occurs at destructive plate boundaries, and is the most powerful of its kind with magnitudes that can exceed 9.
+
+gas leakage?
+
+another frequently cited concern is that methane could be accidentally released into the atmosphere. methane is up to 84 times more potent as a greenhouse gas than carbon dioxide, over a 20-year timeframe
+
+carolyn ruppel, chief of the united states geological survey's gas hydrates project, says that a gas leak on the sea floor is unlikely to cause a catastrophe.
+
+"people imagine it would lead to increased methane concentrations in the atmosphere and exacerbate global warming. but we have found that methane emitted at the sea floor, below a few 100 meters, very rarely makes it all the way up through the water column."
+
+instead, the methane dissolves in seawater and is consumed by bacteria that convert it to carbon dioxide.
+
+ruppel points to evidence gathered during the deepwater horizon oil spill in the gulf of mexico in 2010.
+
+the us coast guard battles the blazing remnants of the offshore oil rig deepwater horizon in the gulf of mexico on april 21, 2010, near new orleans, louisiana.
+
+"a very large amount of methane was emitted at the seafloor. studies carried out afterward determined that the methane did not reach the sea-air interface and was not injected into the atmosphere."
+
+that's not to say a methane leak would be innocuous, she adds. "it could increase carbon dioxide concentrations in the ocean."
+
+furthermore, although cleaner than coal and oil, natural gas is still a fossil fuel that produces carbon dioxide when it undergoes combustion.
+
+green campaigners are concerned that a new source of cheap, abundant natural gas might slow the adoption of renewable technologies such as solar and wind power.
+
+knittel hopes that natural gas could act as a bridging fuel. "in some ways renewables and natural gas are complements, since the reliability of natural gas can counteract the intermittency of renewables."
+
+the future
+
+until this year's tests, yamamoto says, the japanese government was hoping to see commercial production up and running by the late 2020s.
+
+according to yamamoto, it now looks as if this date will have to be put back by about a decade because current costs are too high to make gas hydrate extraction commercially viable.
+
+his focus is not the economics, though.
+
+"the government's task is to develop the techniques, collect the data and provide the information that private companies will need."
+
+the mission to extract natural gas from hydrates is not just about reducing energy bills.
+
+"it's a domestic energy source and for that reason it's very important for japan's future energy security."

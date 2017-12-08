@@ -1,0 +1,163 @@
+(cnn)  spurred by concerns about climate change, governments and companies worldwide are making plans for a post-oil era.
+
+but, while there have been efforts to limit carbon emissions in the aviation industry by using biofuels, no solution is in sight to replace kerosene-burning commercial aircraft.
+
+and yet, as with the car industry, electrical propulsion looks to be the way forward for air travel . so why have things been going so slowly airside? mainly, it seems, because innovators face a very large hurdle.
+
+batteries vs jet fuel
+
+"electric batteries pack much less energy per unit of weight than jet fuel," says bjorn fehrm, an independent industry aviation expert at leeham news. about 40 times less, even if we consider the best batteries available.
+
+"electric motors partly compensate this disadvantage by being more efficient in converting energy into power, but a huge gap remains."
+
+the result is that aircraft would need to carry very heavy batteries in order to even approach the performance of current airliners. this option, quite literally, wouldn't fly.
+
+difficult doesn't mean impossible, though.
+
+major industry players, research organizations and entrepreneurs are working on several possible paths to make commercial electric flying a reality within a few years. here are some of the most promising initiatives in the field:
+
+airbus: disrupt or be disrupted
+
+airbus has already had success with its e-fan light aircraft. airbus
+
+in europe, toulouse-headquartered aircraft manufacturer airbus has teamed up with german conglomerate siemens to pursue its electrical aircraft research program.
+
+its e-fan light aircraft managed to complete a crossing of the english channel in 2015 by using only electric propulsion.
+
+since then, airbus has ramped up its efforts and come up with some potentially disruptive concepts.
+
+"we realized our earliest electrical aircraft projects were not ambitious enough," says glenn llewellyn, head of electrification programs at airbus.
+
+"we have since reoriented our development efforts and come up with some revolutionary concepts such as the vahana and cityairbus, that are close to becoming a tangible reality.
+
+"they are going to have an impact in the way we understand urban mobility."
+
+related content watch dubai police test its latest gadget -- a flying motorbike
+
+vahana
+
+a product of a, airbus' silicon valley arm, vahana is an unmanned electrical aircraft designed to move a passenger or small cargo within the confines of a city.
+
+its appearance is straight out of a science-fiction film. the passenger module nestles between two parallel wings, one above and one below, each holding four engines.
+
+its vertical take-off and landing capabilities make it possible to fly from building to building, which may turn into an alternative to land-based urban transportation. vahana also incorporates technology that allows it to avoid obstacles and navigate the complexities of the urban environment.
+
+in november 2017, the vahana team announced that it's ready to begin flight testing
+
+cityairbus
+
+another futuristic concept that airbus is working on is cityairbus, whose maiden flight is scheduled for 2018.
+
+just like vahana, it's self-piloted and will be able to take off and land vertically, making it ideally suited for urban use. the difference is that cityairbus will be able to carry up to four passengers.
+
+"in addition to zero emissions and low noise levels, we are confident their operating costs will make them competitive with traditional taxis," says llewellyn.
+
+in parallel to these projects, airbus continues to work towards its longer-term aim of developing a fully electric airliner. the next major goal will be to develop an aircraft that crosses the megawatt threshold.
+
+airbus has plans underway for a 2mw (two-megawatt) aircraft. it's still a long way off what would be needed to power an alternative to present-day airliners, but already more than 60 times more powerful than the e-fan's 30 kilowatts.
+
+zunum aero
+
+aviation behemoth boeing has invested in seattle-based startup zunum aero. zunum aero
+
+us multinational boeing has invested, together with silicon valley's jetblue technology ventures, in seattle-based startup zunum aero.
+
+zunum's hybrid-electric aircraft promises something akin to door-to-door air travel, flying quietly and economically to thousands of underused local airfields and bypassing more inefficent and often congested larger airports.
+
+the initial concept will be able to carry 12 passengers up to 700 miles, but it's been designed with scalability in mind. the idea is to develop a family of aircraft of increasingly larger size and longer range.
+
+although it starts as a hybrid, its design allows for a smooth transition to full electrical propulsion when new battery technology becomes available.
+
+eviation aircraft
+
+eviation: a nine-passenger all-electric aircraft. courtesy eviation aircraft
+
+eviation aircraft also focuses on the short-range regional market.
+
+this israeli startup has come up with a sleek nine-passenger, self-piloted, all-electric aircraft to operate primarily in the 100 to 600 mile range (although the aircraft will have a longer maximum range).
+
+"this is a market where the overwhelming majority of the journeys are now made by car, as it is not efficient to fly commercial," says omer bar-yohay, founder and ceo of eviation. "we are here to change this."
+
+"almost no one is riding 40-year-old cars and yet most aircraft in our size category derive from designs that are at least four decades old," continues bar-yohay, who, prior to starting eviation aircraft, worked in the electrical vehicle industry.
+
+by using small local airports, eviation aircraft is looking at the same market as zunum aero.
+
+"the opportunity is so big [...] that there is space for several operators, using different approaches," argues bar-yohay.
+
+while zunum "preferred to start with hybrid technology to get some extra range," eviation aircraft's optimistic belief is that "an all-electric aircraft is already able to serve our needs."
+
+nasa x-57 maxwell
+
+nasa x-57 maxwell: 14 electrical motors provide distributed propulsion. nasa
+
+nasa's x-57 maxwell is an example of out-of-the-box thinking when it comes to electrical aircraft design.
+
+this awkward-looking experimental plane uses the distributed propulsion provided by 14 electrical motors, all of them integrated into a specially designed high wing.
+
+this unusual configuration, where the two larger motors at the wingtips reduce drag associated with wingtip vortices, is designed to bring about a 500% efficiency increase when cruising at higher speeds.
+
+the x-57 is expected to fly in early 2018.
+
+pipistrel alpha electro
+
+pipistel alpha electro: yours for $129,800. from pipistrel
+
+it may lack the outlandish looks of other electric aircraft designs but, unlike them, the modest slovenian-made two-seater pipistrel alpha electro, whose first prototype was known as wattsup, has already reached production stage and is market-ready.
+
+powered by a 60-kilowatt electric engine developed by siemens, the alpha electro can stay airborne for about an hour. not a long time, admittedly, but more than enough for the training sorties it was designed for.
+
+the alpha electro, which costs $129,800 , and recharges its batteries the same way as a mobile phone, could significantly reduce the costs of initial pilot training, according to its manufacturer.
+
+in addition to supplying some systems for nasa's x-57, pipistrel is also working with uber on the development of an electric vertical take-off (vtol) vehicle for urban mobility.
+
+related content awesome prototype planes: 1949 to 2017
+
+wright electric
+
+wright electric hopes its all-electric airliner will serve short-haul routes. from wright electric
+
+in september 2017, us startup wright electric announced that it had partnered with european low-cost airline easyjet in order to develop an all-electric airliner.
+
+wright electric's truly ambitious project is to create an airliner in the 120-186 seat range capable of flying distances of up to 335 miles.
+
+although this isn't a particularly long range, it would be enough to cover many busy short-haul routes, such as london to paris or new york to boston.
+
+the expectation is for range and capacity to be increased progressively as technology improves and that a whole family of aircraft will eventually be produced.
+
+small is beautiful
+
+independent experts in the field of electric propulsion remain cautious about the prospects for electric flight.
+
+"i have crunched the numbers and i think we are still more than a decade away from having all-electric commercial airliners," says bjorn fehrm.
+
+"the performance gap you need to bridge, particularly when it comes to the energy density of batteries, is huge."
+
+however, he says smaller-scale projects like vahana have a real chance of becoming the first commercially feasible electrical aircraft.
+
+"you can scale gradually from there, but you have to start somewhere.
+
+"the first aircraft may not be that competitive, but, as happened with cars, governments may use regulation to support electric aircraft, on the basis that they are quieter and less polluting."
+
+related content sky's the limit: the future of in-flight entertainment
+
+gradual process
+
+andreas klckner, coordinator for electric flight at dlr, the german aerospace center, agrees that the transition to electric flight is likely to be gradual.
+
+"we already have electric aircraft for two to four passengers, like the pipistrel alpha trainer or like the hy4 flying fuel cell testbed.
+
+next you go for up to 19 passengers, like the zunum concept. you learn and you keep scaling up until you reach commercial airliner classes."
+
+for longer-range and heavier aircraft, however, he predicts that "as long as batteries are too heavy" hybrid solutions will be required.
+
+klckner adds another element to the discussion.
+
+"research in the field of electric flight has some interesting derivatives. for example, electric motors could be distributed along the wing, such as with nasa's x-57," he says.
+
+"in addition to aerodynamic advantages, this could make heavy vertical tails redundant."
+
+vertical tails are currently needed to steer during flight, but this is a task that could be taken on by electric motors as they react very quickly to commanded speed changes.
+
+says klckner, "it opens up new ways to think about aircraft design."
+
+"unlike jet engines, the efficiency of electric motors doesn't benefit from size, so instead of two or more large engines under the wings you can have many smaller motors distributed along the fuselage," explains jeff engler, ceo of wright electric.

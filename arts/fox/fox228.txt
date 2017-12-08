@@ -1,0 +1,19 @@
+facebook just released a preview of its first app built specifically for children.
+
+the free messenger kids ios app can be installed on a child's apple smartphone or tablet, but controlled from a parent's facebook account. when they open up the app, kids will see a list of "parent-approved contacts" they can call for a one-on-one or group video chat, facebook product management director loren cheng explained in a blog post. kids can also use the apps to send photos, videos, or texts to their approved contacts, who will receive the messages via their regular messenger app.
+
+if your kid loves playing around with snapchat face filters, they're probably going to be stoked about messenger kids. the app offers fun virtual masks, emojis, and sound effects to liven up the conversation. there's also a library of "kid-appropriate and specially chosen" gifs, frames, stickers, and drawing tools.
+
+there's one thing your kids won't encounter in this app: ads.
+
+"there are no ads in messenger kids and your child's information isn't used for ads," cheng wrote.
+
+facebook said it developed the app using input from parents and more than a dozen "expert advisors in the areas of child development, online safety, and children's media and technology." it's designed to be compliant with the children's online privacy and protection act (coppa).
+
+"after talking to thousands of parents, associations like national pta, and parenting experts in the us, we found that there's a need for a messaging app that lets kids connect with people they love but also has the level of control parents want," cheng wrote. with messenger kids, "parents fully control the contact list and kids can't connect with contacts that their parent does not approve."
+
+the preview app is available for download in the apple app store. facebook said it plans to launch the app in the amazon app store and google play "in the coming months."
+
+to try it out, just download the app on your kid's device and log in using your own facebook username and password. don't worry: this won't give your child access to your facebook account. then, you'll just need to create an account for your child by providing their name. you can add people to your kid's approved contact list from the messenger kids parental controls panel in your facebook app (click "more" on the bottom right corner of the app, then click "messenger kids" in the explore section).
+
+this article originally appeared on pcmag.com.

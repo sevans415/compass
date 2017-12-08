@@ -1,0 +1,39 @@
+new york attorney general eric schneiderman called monday for the federal communications commission to delay its vote to repeal net neutrality, scheduled for next week, after his office and other researchers said they've found that more than a million comments submitted to the fcc on the issue were fake.
+
+schneiderman said that his office believed the identities of americans were stolen and used to submit comments on net neutrality to the fcc. "this is akin to identity theft on a massive scale," he said.
+
+people were invited to submit their views on net neutrality to the fcc earlier this year. the current net neutrality rules, approved during the obama administration, barred internet providers from deliberately speeding up or slowing down traffic to or from specific websites and apps. under new rules proposed by fcc chairman ajit pai, internet providers would be allowed to prioritize content but would need to publicly disclose they are doing so.
+
+related: trump fcc chair unveils plan to repeal net neutrality
+
+more than 20 million comments were submitted -- but schneiderman says many of them are fake.
+
+the fcc does not require commenters to verify their identity, and features on the fcc website allow multiple comments to be uploaded from the same computer at once.
+
+last week, schneiderman's office unveiled an online tool that helped people see if their names had been used without their knowledge on comments submitted to the fcc. by monday, schneiderman said, they had received more than 3,000 responses -- including, he said, from a man who said his deceased mother's name had been used.
+
+the identity of one of schneiderman's staff members was also used without her permission, he said.
+
+"the slowdown in investment is destroying jobs and risks a big future tax hike to make up for lost private investment. save american jobs by repealing net neutrality," the comment, which used the staffer's name and childhood address in rhode island, said. the same language was also used in other comments submitted to the fcc under other people's names.
+
+jessica rosenworcel, one of two democratic commissioners currently on the fcc, also called for the vote to be delayed pending a full investigation.
+
+"the fcc is on course to eliminate net neutrality guided by a record corrupted by hundreds of thousands of filings with stolen identities," rosenworcel said.
+
+schneiderman did not specify if the comments his office identified as fake were primarily in support of or against the current net neutrality rules.
+
+separate independent studies also found high levels of suspected fake comments. the pew research center found that 57% of comments submitted to the fcc regarding the upcoming net neutrality vote used temporary or duplicate email addresses.
+
+a report commissioned by broadband for america, which is backed by major telecommunications companies including at&t and comcast, found that the vast majority of personalized or unique comments -- that is, the comments least likely to have been faked -- were in favor of the current net neutrality rules. (at&t is in the process of acquiring time warner, cnn's parent company.)
+
+the study found 1.52 million comments with language that only appeared once in the fcc database in favor of the current rules, and only 23,000 against. "presumably, these comments originated from individuals that took the time to type a personalized comment. although these comments represent less than 10% of the total, this is a notable difference," the report said.
+
+separately monday, more than two dozen democratic senators also wrote to the fcc calling for the december 14 vote to be delayed until a review of the submissions take place.
+
+citing the findings of schneiderman's office and other researchers, the senators wrote, "these reports raise serious concerns as to whether the record the fcc is currently relying on has been tampered with and merits the full attention of, and investigation by, the fcc before votes on this item are cast."
+
+at a press conference monday, schneiderman said the fcc had for months had been unwilling to provide records necessary to investigate the alleged fake comments further, but that on monday the fcc indicated that it would assist with the investigation.
+
+a spokesperson for fcc chairman ajit pai, a republican who backs overturning the current rules, said in response to schneiderman's comments on monday, "this is an attempt by people who want to keep the obama administration's heavy-handed internet regulations to delay the vote because they realize that their effort to defeat the plan to restore internet freedom has stalled."
+
+the spokesperson said that schneiderman had not identified as fake any comments that were used as part of pai's proposal.

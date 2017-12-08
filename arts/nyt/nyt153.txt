@@ -1,0 +1,55 @@
+just as vocal are parents like parker thompson of alameda, calif., who said childrens adoption of technology is an inevitability and who appreciated facebooks approach with the new app.
+
+photo
+
+today, much of the time our options come down to giving kids devices and trusting things will work out, watching them closely at all times, or banning technology, said mr. thompson, 38, a father of three children between 6 months to 8 years old. tech is going to be something kids adopt. the question is how this will happen.
+
+facebooks official entry into the childrens market is a watershed moment both for families and for the social network. preteens and teenagers already flock to youtube, instagram, snapchat and musical.ly, general interest sites whose policies state that they are not for use by children under 13. preteens are also avid senders of text messages.
+
+advertisement continue reading the main story
+
+but only a handful of messaging and social apps  like kudos, a photo-sharing app  are designed for younger children to use with parental permission and supervision. thats because of a federal law, the childrens online privacy protection act, known as coppa, which requires services aimed at children to obtain verifiable parental consent before collecting, using or disclosing personal information from a child under 13  like photos, videos, voice recordings, location, contact information and names.
+
+until this year, even big tech companies had been loath to set up childrens sites with a parental consent system lest they violate the law. in 2011, for example, an operator of virtual worlds that had been acquired by the walt disney company agreed to pay $3 million to settle federal trade commission charges that it illegally collected and disclosed personal information from children under 13 without parents consent.
+
+facebook said the point of messenger kids was to provide a more controlled environment for the types of activity that were already occurring across smartphones and tablets among family members. the company said it had spent months talking to parenting groups, child behavioral experts and safety organizations to aid in developing the app, as well as thousands of hours interviewing families on the ways that members communicate with one another. the app is compliant with coppa, it added.
+
+right now for kids, the time they spend on devices is very passive, said david marcus, vice president of messaging products at facebook. its not really a device that helps you connect with others close to them.
+
+messenger kids is built so that children do not sign up for new facebook accounts themselves; facebooks terms of service require that users be 13 or older. the app requires an adult with a facebook account to set up the app for his or her child. after adults enter their facebook account information into the app, they are asked to create the childs profile and which friends or relatives he or she will be allowed to connect with on messenger. every additional friend request requires approval by the parent.
+
+the app is fairly limited in scope, allowing for text and video chat, as well as sending photos. as with instagram, facebook or snapchat, children can add filters or playful drawings to the photos they send.
+
+loren cheng, product director for messenger kids, said facebook would not use for marketing purposes the details it collected from children. he also said the company would not automatically convert childrens accounts to adult accounts when they turned 13.
+
+newsletter sign up continue reading the main story please verify you're not a robot by clicking the box. invalid email address. please re-enter. you must select a newsletter to subscribe to. sign up you agree to receive occasional updates and special offers for the new york times's products and services. thank you for subscribing. an error has occurred. please try again later. view all new york times newsletters.
+
+the app, which will be in a preview release on apples ios devices before rolling out to a wider audience in the coming months, is facebooks latest effort to increase the number of people who rely on its service to connect with one another regularly. more than two billion people use facebook every month, while its other apps, like messenger, whatsapp and instagram, also have billions of users.
+
+if messenger kids proves popular, facebook may reap many benefits. the company could see increased messaging activity and more engaged, regularly returning users, not to mention insights and data on how families interact on messenger.
+
+advertisement continue reading the main story
+
+some childrens and privacy groups commended facebook for saying that messenger kids would give parents control over childrens messaging and not show ads to children. but they also described messenger kids as a marketing effort to increase consumer loyalty.
+
+this is an attempt to create a feature that will help facebook win over young people and keep their parents tied to the site, said jeffrey chester, the executive director of the center for digital democracy, a privacy and childrens advocacy group in washington. with youtube monetizing the youngest children, its too lucrative a market for facebook to overlook  plus the company is losing youth market share to snapchat.
+
+others cautioned that the app raised concerns about childrens privacy.
+
+according to messenger kids privacy policy, the app collects registration details from parents such as childrens full names. it also collects the texts, audio and videos children send, as well as information about whom the child interacts with on the service, what features they use and how long the children use them.
+
+the privacy policy also says that messenger kids is part of facebook and that the company may share information collected in the app with other facebook services. while parents can delete their childrens messenger kids accounts, the policy says, the messages and content that a child sent to and received from others may remain visible to those users.
+
+james steyer, the chief executive of common sense media, a childrens media ratings and advocacy group, said european regulators had previously fined facebook for reneging on privacy commitments. given that history, he suggested that facebook make a public and permanent commitment to keeping messenger kids free of advertising and to not using the app to prime children for grown-up accounts later.
+
+why should parents simply trust that facebook is acting in the best interest of children? mr. steyer asked.
+
+facebook can ill afford more controversies. the company has been in the cross hairs of congress over the role it played in the 2016 presidential election, with the spread of fake news and divisive content on all of its platforms. the company has said more than 150 million people across facebook and instagram could have seen content linked to russian agencies.
+
+still, the company said that issue was largely separate from messenger. facebook said its overall mission remained centered on bringing the world closer together.
+
+we cant let the current state of things prevent us from doing our jobs, which is to solve real problems in peoples lives, mr. marcus, the head of messenger at facebook, said.
+
+advertisement continue reading the main story
+
+mark zuckerberg, facebooks chief executive, did not weigh in on the start of messenger kids. over the weekend, mr. zuckerberg, whose second child was born over the summer, posted on facebook that he was going on paternity leave.

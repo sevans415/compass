@@ -1,0 +1,81 @@
+audio clip: listen to audio clip.
+
+fcc chairman ajit pai joined brian kilmeade to discuss how rolling back net neutrality will impact internet providers and consumers. pai explained how this rollback will remove the government from regulating how the internet works and return it to a market-based approach which will help the private sector improve innovation and give cheaper and faster internet service for americans. when asked about concerns from tech giants, such as netflix and amazon, that internet service providers would be able to charge both consumers and websites for access, pai said that is a hypothetical situation and something that has never happened and if it does happen the federal trade commission would take action against any company, big or small, that behaves in an anti-competitive way.
+
+the proposal to roll back net neutrality will be voted on december 14th by the five commissioners of the fcc.
+
+listen here:
+
+brian kilmeade, fox news radio host: welcome back, everyone. it's my privilege of bringing to for the first time to the show the chairman of the fcc ajit pai. ajit, welcome.
+
+ajit pai, chairman of the united states fcc: hey, thanks for having me on.
+
+kilmeade: mr. chairman, this is a pretty exciting day for you. you're rolling back net neutrality. what does that mean to the laymen?
+
+pai: well, i think it means that we are getting government out of the business of regulating how the internet works, and we're going to return to the market-based approach that served us well for two decades, and we're going to let this online platform be governed by engineers and entrepreneurs instead of bureaucrats and lawyers here in washington.
+
+kilmeade: so a lot of people worry that their going to start risky fees to get high speed internet, and the average working blue collar guy already going paycheck to paycheck won't be able to afford a lot of these things.
+
+pai: it's going to mean exactly the opposite. for the past 20 years before 2015, we had a free and open internet that allowed the internet to thrive and for consumers to benefit. one of the problems is that these heavy handed regulations have made it harder for the private sector to build out the networks especially in rural america, and so by going back to the previous regulations more, a more light touch approach, the internet access is going to become better, we'll see much cheaper and who have better services, and i think the entire ecosystem's going to be a lot better off.
+
+kilmeade: so you think it's better for the consumer. i know that telcos seem to be happy, correct?
+
+pai: well i think that most of these businesses don't want to have, especially in a dynamic environment like this one, to be regulated under rules that were developed in 1934 to tame the mabel telephone monopoly, and all we're simply saying is that we should have regulations that match the times in which we live, and to me the at least, the internet is the greatest free market innovation in history and we want to keep it that way.
+
+kilmeade: right. i mean, for example, do you worry about people having to get fee for high speed. for example, if i have a lot of money and i'm rolling out a high, i have big time investors, and my website's really fast, and if somebody else is trying to get their legs into - legs on underneath them in iowa won't be able to have the same access, therefore there'll be almost against (ph) weighted against them.
+
+pai: no, to the contrary we want those folks to have access as well, to have a fair shot at competing, and that's exactly what our proposal would do. it puts the federal trade commission in charge of making sure that there's not anti-competitive conduct, and the fcc itself would require transparency so that every internet service provider would have to disclose how it's managing its business so that consumers and entrepreneurs alike can get the information that they need to make the right choices.
+
+kilmeade: so in that, this isn't just you even though you're a powerful man as chairman of the fcc. this is going to go for a vote, correct?
+
+pai: that's right.
+
+kilmeade: and who's going to vote.
+
+pai: so it'll be a vote on december 14, the five commissioners of the fcc, of which i'm one, will be voting, three republicans, and two democrats.
+
+kilmeade: what did the president say to you about this? did he - is this your idea or his idea?
+
+pai: the president and the white house have not have any input on this issue at all, and this was our decision as an independent agency. we make our own decisions based on facts and the law.
+
+kilmeade: how about this. just tell me some of the things that people are worried about if you're with netflix or an investor that some of these telcos could hold - could hold streaming services like netflix hostage by demanding more money from them. do you worry about that?
+
+pai: well i think the key word in your question is "could." this is all entirely hypothetical. we have never seen that in the 20 years or so that the commercial internet has existed. and going forward, we require transparency, as i said, to make sure that any practice like that would be disclosed, and we empower the federal trade commission to take action against any company big or small that's behaving in any competitive way or otherwise harming consumers.
+
+kilmeade: you'll jump right back in if you see this happening?
+
+pai: well, the federal trade commission would be empowered to take action based on some of these principles that i've talked about.
+
+kilmeade: understood. so you - do you - you do have some concern - you're almost in the it is (ph) you think it's going to work out, but you're not positive, right, that we'll never know because it's never been done?
+
+pai: no, to the contrary we do have a lot of experience from 1996 until 2015 starting with president clinton's policy of having a market-based approach to internet. we do know that this free and open internet can exist free from these heavy-handed regulations that a partisan majority imposed in 2015.
+
+kilmeade: gotcha. so now let's talk about something else that's on your plate kind of. are you concerned with at&t buying time warner about as (ph) for them forming something that is way too strong, way too consolidating, too much of a monopoly?
+
+pai: well, that's a decision that the department of justice has made. the fcc did not review that transaction because the parties weren't transferring fcc licenses from one to other. and so we just didn't jurisdiction, so i can't really offer an opinion about (inaudible) with the transaction, the merits of it, or how it's been handled.
+
+kilmeade: right, so that's not something that's going to come across your desk.
+
+pai: that's right. yes, it's handled solely by the depart of justice.
+
+kilmeade: and so when would your vote be today? well, when are you going to make the official announcement?
+
+pai: so the official announcement has just been made. i've shared the proposal to my fellow commissioners this morning, and we'll be voting on december 14 in a little over three weeks.
+
+kilmeade: and is this part of the whole deregulation of this administration?
+
+pai: well, i'll let other agencies speak for themselves. all i can say from our perspective is that we want to update our rules to make sure that we promote as much economic growth and investment as possible, especially in the telecom industry that's one of the things that could really contribute to job creation into stronger communities. and so, if you look across the board, whether it's battling unwanted robocalls or freeing the internet or unleashing innovation in the media space, we've really taking a forward thinking approach and we're not going to continue litigating these tired battles from the past.
+
+kilmeade: ajit, you're in an exciting time to be chairman of the fcc because everything's switching. i can't tell how many people say, "i watch you on my iphone," "i'm watching you online," "i get this showing streaming," as opposed to stations and cable outfits. how do you keep up with it? where do you think we're heading?
+
+pai: it's a really exciting time. the downside i will say is that it doesn't seem like there's enough time to study all these great innovations that are happening and things like artificial intelligence and connected cars and alike, but i think the future is extremely bright. if you look at some of the breakthroughs that people are talking about, enabling people to take advantage of telemedicine or helping our kids learn through distance learning and alike, i think we stand on the brink of some pretty big breakthroughs. there are obviously going to be some - there's some discomfort with that, too, and we need to make sure that we educate everybody about what the possibilities and perils could be. but i think if we get the rules right here in washington, there's no telling what kind of innovation could benefit consumers in the time to come.
+
+kilmeade: very interesting because you know when you capitol hill, it's a very pournouisng (ph) atmosphere there, right? you're ready for that?
+
+pai: yes, a little bit. it just goes with the territory, and you just have to have a thick skin and understand that folks there are doing their job, too.
+
+kilmeade: some of these, the code pink (ph), are targeting your house?
+
+pai: yes, some. i'm not sure who their representing, but they did make a stop by their residence not too long ago, and that's a part of the process, too. as long as nobody's being threatening to me or my family, they have a right to do it.
+
+kilmeade: yes, i'd rather them just leave your block party alone. ajit, thanks so much. congratulations on the move. best of luck.

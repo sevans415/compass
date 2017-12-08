@@ -1,0 +1,17 @@
+cars that fly or drive themselves aren't available to the public yet, but many cutting-edge technologies are already featured in today's vehicles.
+
+more car companies are leaning on innovations coming out of silicon valley and elsewhere to make getting behind the wheel less of a hassle and more fun.
+
+here are some of the coolest features that tease the future of driving, from windshield projections to never needing to park again.
+
+cameras galore
+
+humans are no longer the only ones to see the road ahead.
+
+cars are increasingly outfitted with sensors, especially cameras. with the help of computer vision software, cameras are able to identify signs -- such as the speed limit -- and adjust accordingly.
+
+ford offers a speed-limiting feature on several of its european cars, including the kuga, edge, s-max and galaxy. a driver in one of those vehicles can set parameters to prevent driving more than 5 mph above the speed limit. rather than applying brakes to keep a driver at that speed, it limits the amount of fuel to the engine.
+
+cameras are also playing a big role in autonomous vehicles, such as helping them see around corners or detecting people and objects on the road.
+
+meanwhile, the cadillac supercruise uses a camera on the steering column to monitor a driver's eyes. it knows when a driver's eyes turn away from the road for too long and flashes a light to help them re-focus.
