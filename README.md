@@ -2,7 +2,7 @@
 AI system that determines the political leaning of a news article. A project by Spencer Evans, Daniel Alpert, and Dylan Farrell. Check the compass.pdf file for an in-depth explanation of our process and findings
 
 
-## Running the RNN
+# Running the RNN
 To run the RNN you'll need to have downloaded tensorflow, keras, pandas, numpy, and sklearn. 
 
 Once you have that, run either the cross_val.py or the transferKeras2.py file with the appropriate arguments. Note that the RNN will need to train itself first which takes a while. 
@@ -27,3 +27,13 @@ run the ./transferKeras2.py file with the below parameters and make sure GloVe e
 
 Parameters:
 [('epochs', 20), ('batch_size', 128), ('validation_split', 0.3), ('loss', 'binary_crossentropy'), ('dropout', 0.0), ('opt_flag', 1), ('opt_lr', 0.01), ('cnn_flag', 1), ('kernel_size', 128), ('lstm_flag', 0)]
+
+
+
+# Running naive bayes and random forest and classifying articles as a whole
+
+Running all of the cells in glove_random_forest.ipynb shows the process of importing GloVe pretrained vectors, tuning our random forest model with word vectors, and ending up with a best model based on accuracy score.
+
+Running all of the cells in classify_articles.ipynb will show the “political score” for each of the three sources we originally tested—NYT, CNN, and Fox.
+
+Running all of the cells in naive_bayes_random_forest.ipynb shows the fitting, tuning, and results of the Naive Bayes and Random Forest classifiers using Bag of Words.
