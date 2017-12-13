@@ -1,0 +1,63 @@
+(cnn) a new tech start up has set themselves a massive task: to register all newborn babies digitally.
+
+the company hopes the new system will make birth certificates in sub-saharan africa more more accessible -- an area where more than half of newborns currently go unregistered.
+
+globally, an estimated 230 million children under the age of five are not registered.
+
+co-founder adama sawadogo says he wants to help africa's "ghost children" who lack a legal identity due to not being registered and may be extra vulnerable. "it's a major humanitarian problem. these ghost children are easy prey for traffickers."
+
+"it's an african problem which nobody is interested in," he adds.
+
+in burkina faso, proof of the birth must be supplied on the day the baby is born, and being able to register the child remotely for those living in rural areas will help get more people registered, according to the company.
+
+how icivil works
+
+the system creates a digital birth certificate using icivil's android mobile application and a bracelet with a unique code, called a prooftag bubble seal , a patented technology produced by co-founder francis bourrieres' company prooftag , based in toulouse, france.
+
+once the bracelet is put on the baby, a midwife scans the code using the app and enters the newborn's details on the mobile interface. this is automatically sent in an encoded text message via icivil's platform to the civil registration authorities.
+
+the bubble bracelet has a unique id code which is scanned using the app
+
+the baby is then registered in the system, and a birth certificate containing the id code can be printed and collected from any civil registration center in the country upon presenting the bracelet.
+
+the same technology has previously been used as fraud prevention in french wines and is based on a unique identifier generated through a so-called 'bubble code'.
+
+1,500 newborns were registered on the first trial using the system at 10 different health centers in burkina faso's capital city of ouagadougou between august 2015 and july 2016.
+
+children without an identity
+
+while it is still early days for icivil, their efforts draw attention to a wider problem.
+
+in burkina faso, which has a population of nearly 17 million, 3 million children were unregistered at the latest census in 2006, with the majority living in rural areas.
+
+the consequences may range from vulnerability to traffickers to difficulties attending school and obtaining a passport.
+
+birth registration for children in many rural villages is almost none existent according to plan.
+
+with the increase in migration in africa, these issues are likely to get worse, says edward duffus , head of birth registration innovation at plan international
+
+"when not registered they have an increased chance of becoming stateless, which is clearly a big problem for refugees."
+
+other tools being tested
+
+while icivil's approach may be unique, their system is not the only digital tool currently being tested in africa, according to duffus.
+
+some are run by nonprofit organizations such as plan international, which has a pilot program in kenya that includes a mobile application.
+
+icivil hopes to soon produce 800,000 bracelets a year for burkina faso
+
+there are some caveats to consider in the design of these tools, however, such as tailoring them to a specific country's needs, duffus says.
+
+some areas are still working to raise awareness among parents of the importance of registering a child, for example, and so the demand for these tools may not be very high in some areas yet.
+
+"getting your child registered for birth is often not high on the list of parents' priorities when living in poverty, a long way from the registration center, " duffus says.
+
+big future plans
+
+with the first trial completed, icivil are now in talks with burkina faso's government about implementing the system nationwide at a cost of $20 million, which would include producing around 800,000 bracelets a year, sawadogo says.
+
+"the government is discussing the project with financial partners like unicef and the world health organization to get the money to put it in all regions of burkina faso."
+
+they hope more countries will soon follow.
+
+"we want to build this project across the continent."

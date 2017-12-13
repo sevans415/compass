@@ -1,0 +1,77 @@
+as in previous years, 2017 was a huge year across the technology landscape. new products were announced, backlash against the tech sector became more pronounced than it has been in years, and concerns about how technology is being used for nefarious reasons popped up seemingly daily.
+
+fox news compiled a list of the biggest tech stories of 2017.
+
+iphone x review roundup: should you buy?
+
+apple unveils iphone x
+
+along with the iphone 8 and 8 plus, the world watched apple unveil the iphone x (pronounced "ten") in september, a smartphone ten years in the making.
+
+during the announcement, ceo tim cook described the device as "a product that will set the path for technology for the next decade."
+
+it has a 5.8-inch super retina display and face id facial recognition technology, which can be used to unlock the phone and for apple pay. concerns have cropped up about how secure face id is, but apple has said it's significantly more secure than its previous technology, touchid.
+
+the iphone x started shipping on nov. 3 and customer demand has been high, despite its starting price of $999.
+
+apple has also worked to significantly increase its inventory for the product. when it became available, customers who didn't pre-order the device were told their devices would ship between 5 and 6 weeks. a recent check on apple's website showed the ship time had been cut significantly.
+
+wannacry attacks
+
+in may, the wannacry ransomware attacked hundreds of thousands of computers around the globe, in nearly every country, as hackers demanded payment in bitcoin. it is believed to be the biggest online extortion attack in human history. hackers took down britains hospital network, germanys national railway and a host of other companies, factories and government agencies worldwide.
+
+a "kill switch" in the software was discovered by researcher marcus hutchins, thus limiting the damage. despite his efforts, hutchins was arrested in the u.s. for allegedly creating another malware, known as kronos.
+
+the wannacry attacks were likely the work of the north korean government, cybersecurity firm symantec said. the nsa and other agencies, including microsoft, have also attributed wannacry to north korea, but its government subsequently denied the attacks.
+
+snapchat ceo: social media fueled the rise of 'fake news'
+
+sins of silicon valley
+
+backlash increased against silicon valley giants throughout 2017, with many blaming a number of problems on a select few companies, such as google, facebook and amazon.
+
+google and its chairman, eric schmidt, reportedly influenced the think tank new america  which describes its mission as "renewing american politics, prosperity, and purpose in the digital age"  to cut ties with a member after he was critical of google and expressed support for the recent $2.7 billion antitrust penalty levied by a european union court against the company.
+
+amazon has come under scrutiny for its size and for seemingly trying to disrupt every industry it touches, including groceries. earlier this year, it purchased whole foods for $13.7 billion.
+
+the company has also come under scrutiny as president trump has repeatedly called out amazon for a number of different reasons. trump, for example, has accused amazon of not paying so-called "internet taxes" and "doing great damage to tax-paying retailers."
+
+many have raised the question whether the u.s. government and its counterparts around the world have the regulatory power or know-how to keep america's tech heavyweights in check and not abuse their power.
+
+russia influencing the 2016 u.s. presidential election
+
+russian operatives reportedly tried to influence the 2016 u.s. presidential election using social media as its means of choice.
+
+in september, facebook reported that russian operatives spent $100,000 in fraudulent ad spending by organizations with ties to the russian government.
+
+separately, twitter and google also uncovered ad spending by russian operatives.
+
+the russian government and some of the players linked have denied the allegations.
+
+sheryl sandberg: congress should release facebook ads to public
+
+bitcoin and the great cryptocurrency boom
+
+bitcoin, a digital cryptocurrency that many believe is an alternative to the u.s. dollar, exploded in 2017.
+
+the cost of one bitcoin, which can be used to purchase an increasing number of goods and services, was less than $1,000 at the start of the year. by late november, it had surpassed $10,000 for a single bitcoin.
+
+other cryptocurrencies, such as bitcoin cash (which split from bitcoin) and ethereum, all significantly increased in worth, leading many to believe the market had become a bubble reminiscent of the "tulip mania" of the 1600s during the dutch golden age.
+
+nintendo is back ... again
+
+like a phoenix rising from the ashes, nintendo has come back into the spotlight, thanks in part to the popularity of its consoles, most notably the nintendo switch.
+
+the switch, which sells for $299, has taken the gaming market by storm and was the best-selling product this past thanksgiving and black friday, according to adobe.
+
+nintendo has also enjoyed success capitalizing on nostalgia, due to the release of its nes classic and snes classic consoles, which let gamers play hit 1980s and 1990s games released by nintendo.
+
+elon musk thinks artificial intelligence could cause world war iii
+
+hacking, hacking, hacking
+
+seemingly every day a new hacking revelation was unveiled, with equifax perhaps receiving most of the attention. the company said the data of nearly half of all americans were compromised.
+
+other major disclosures happened during the year as well, including yahoo and, most recently, uber.
+
+follow chris ciaccia on twitter @chris_ciaccia

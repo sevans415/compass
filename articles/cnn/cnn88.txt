@@ -1,0 +1,33 @@
+craig a. newman is a former journalist who chairs the privacy group at patterson belknap webb & tyler llp, where he represents public and private companies and their boards in the finance, insurance, health care, education and sports industries. he is a senior adviser to the cronkite school of journalism & mass communications at arizona state university. the opinions in this article belong to the author.
+
+(cnn) despite the increasing number of digital assaults against private industry and governments in the past couple of years, we are still in a state of denial about the prospects of a global cyber showdown.
+
+america and its international partners have offered mostly hand-wringing and half-measures in response.
+
+in a speech last month, microsoft's president and chief legal officer, brad smith , called for the global community to band together to create a digital version of the geneva conventions to combat global cyberthreats.
+
+but why not take smith's idea a step further? the united states should be leading the international community in addressing these attacks through existing worldwide organizations by creating a cybersecurity version of nato
+
+the next large-scale cyberattack is inevitable. while this summer's wannacry attack -- which infected more than 150 countries and disrupted critical sectors of the world economy -- could have been worse, the next probably will be. but the industry alliances formed in response to such attacks have yet to drive substantial change.
+
+instead, it is in america's interest to persuade both citizens and governments around the world of the threat these attacks represent.
+
+they violate basic human norms and flout existing laws that people around the world welcome. cyberattacks aren't daring electronic adventures. they're dangerous, criminal acts -- high-tech burglary, theft, armed robbery, piracy and kidnapping with ransoms. and they jeopardize everything from our freedoms and economic prosperity to our way of life.
+
+we can't go it alone in response to these crimes: perpetrators of data breaches are difficult to identify and frequently act from outside the united states, making them elusive to domestic authorities. even with excellent international law enforcement cooperation, few cyber criminals have been brought to account for the significant harm they have inflicted.
+
+just watched north korea's cyberwars replay more videos ... must watch north korea's cyberwars 02:29
+
+nor can we pretend that the threats will ebb any time soon. the number of reported data breaches in the united states alone this year is expected to hit an all-time high , up nearly 40% from 2016, according to the identity theft resource center.
+
+america needs to lead an international coalition of partners to help. in 1949, the united states and european nations formed nato to safeguard their freedoms and security through political and military means. that alliance and other global organizations -- including groups that america may need to foster -- must campaign against cybercrime with two central features.
+
+first, as with nato's article v , they should agree that a cyberattack on one member country constitutes an attack on all. while rogue states may still harbor cyber criminals, this principle assures that enforcement measures -- through diplomatic, trade or other international means -- have maximum effect.
+
+second, worldwide bodies should actively pursue cyber security defenses, sharing these with private enterprise, as a paid service if necessary. lack of preparedness, after all, is a common theme in breaches that have dominated the news.
+
+this path forward may not be easy and controversy free, given differing national views on critical issues such as privacy and innovation. but as with other global initiatives that have helped to control nuclear arsenals, contain global pandemics and safeguard our skies, coordination and cooperation are critical, and can grow.
+
+the cyber criminals who unleashed wannacry may unwittingly have advanced the global consensus to battle the grave dangers of future cybercrimes by attacking computers across eurasia, latin america and africa, including in nations reluctant to crack down on bad actors.
+
+the impetus for change typically hinges on a moment when the focus shifts away from words toward action. america must mobilize the world against a cyber doomsday. it's only a matter of time, without appropriate collective measures, before criminals -- on purpose or by accident -- cause a global calamity the scale of which fundamentally alters the course of economic and political history.

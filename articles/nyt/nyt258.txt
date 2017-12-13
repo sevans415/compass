@@ -1,0 +1,17 @@
+photo
+
+keeping track of dolphins is a slippery, patchy process. first, you must procure time on a ship or aircraft, which is expensive. after that, what you see depends on uncontrollable factors like weather, ocean conditions and whether the creatures happen to be hanging out at the seas surface.
+
+as an alternative, researchers have tried deploying underwater sensors to eavesdrop on the clicks dolphins use for echolocation, which can give clues about the aquatic mammals numbers, distributions and behaviors. sifting through all these data, however, becomes a new headache.
+
+a machine learning program  similar to the one that recommends new facebook friends to you  may be able to help. in a study published thursday in plos computational biology, scientists from the scripps institution of oceanography in california introduced an algorithm that was able to analyze 52 million dolphin clicks and identify seven distinct groups of sound. these click types, the authors speculate, may correspond to different kinds of dolphins.
+
+like many good science stories, this one was the result of grad student misery. soon after kait frasier started her ph.d. in the whale acoustic lab at scripps, the deepwater horizon oil spill happened. wanting to monitor how dolphins were doing after the spill, she and colleagues placed acoustic sensors around the gulf of mexico. it was dr. frasiers job to go through the mountains of data and identify dolphin clicks.
+
+advertisement continue reading the main story
+
+i tried for many years to really wrap my head around patterns in the dolphin signals, said dr. frasier, who is now an assistant project scientist at scripps. i could get somewhere, but it took a long time and was kind of subjective.
+
+photo
+
+she wondered if she could leverage the machine learning techniques used by google and facebook  tools literally designed for big data, she said  to improve on the painstaking process.

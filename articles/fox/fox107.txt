@@ -1,0 +1,29 @@
+apple is the master of radical pivots. it killed the floppy drive, the cd drive, and the headphone jack in iphones, while macintosh systems went from the motorola 68000 to the powerpc chip to the intel x86 line of chips.
+
+a very memorable pivot came when the company dropped the apple ii line of machines with an event called apple ii forever. while it extolled the venerable machine with a fancy new model, it marked the end of the system.
+
+what i'm sensing is that like the old apple ii (forever), the mac will be phased out and the whole line will be replaced by ipads.
+
+i've made this assertion before and received a good amount of hate mail, and i'm prepared for more. but my thinking is based on the latest apple commercial for the ipad pro, a machine with qualities similar to the microsoft surface laptop.
+
+here, a little girl is floating around town with her ipad pro doing all sorts of fiddling around. she's in a tree; she's in a field. at the end, her mom asks her what she is doing with her computer. the girl responds by asking, what's a computer?
+
+the girl is about 10 years old. if she does not know what a computer is by the age of 10, then our school systems are worse than i thought. maybe she's just being rude or mean to her mom.
+
+since negativity seem out-of-bounds for an apple commercial, i assume the point is to highlight apple's attitude towards computers. the little girl rejects the notion of a computer itself and thus separates an ios device from everything you think of as a pc. the ad ends with a mention of ios.
+
+earlier in the year, apple ran a short ad where it said that an ipad pro isn't close to being a computer. it's something better, more modern. the subtext of both ads is that computers are stupid or dead or passe. it's a rejection of the concept of computers.
+
+what does this say about the macintosh? i'm seeing the parallel with the apple ii and "apple ii forever" extravaganza. it's the end of the line.
+
+apple mentions the mac less and less at its big events. the company knows that the machine is a drain on resources that detracts from its new core business, ios and its mobile devices.
+
+i know that mac users do not want to see this reality, but the mac is not a money maker. when you go into the apple store, you see the phone and the watches front and center, then the ipads, then the mac.
+
+there was some talk a few years ago about ios on the mac. that chatter largely subsided with the arrival of the ipad pro, which changes the focus and solves the problem of having to develop two separate and distinct os code bases. even microsoft was not about to invest in parallel code development to this extreme. google is almost doing something like this, but basing it on linux kernels.
+
+apple does have some unix in the guts of macos, but ios seems scratch-built. on top of that, the company is doing extensive custom chip engineering with its arm licensing and the a9 chip. this is a lot of heavy lifting at the most complex levels of design.
+
+do not get me wrong. the mac is not dead tomorrow. but i've seen this exact scenario before and it does not bode well. if apple rolls out some odd and out-of-place extravaganza for the mac, you can be sure the end is near.
+
+this article originally appeared on pcmag.com.

@@ -1,0 +1,29 @@
+hackers can unlock a high-tech tesla car door by using the same run-of-the-mill techniques they use to crack open computers.
+
+that's according to security researcher nitesh dhanjani, who spoke about his findings at a recent hacker conference in singapore. all it takes is cracking a six-character password, considered low-hanging fruit in the cyber security world.
+
+and if it can happen to a tesla (tsla), other cars may also be susceptible. after all, many modern cars made by others like ford (f) and toyota (tm) can also be controlled via computer and mobile phone apps and come equipped with wireless connections that tap into wi-fi, bluetooth or cell phone networks.
+
+"we now have ways of accessing our cars we never did before, and consumers aren't quite aware of that. hackers will try to take advantage of that lack of awareness," said erik cabetas, managing partner at the consulting firm include security.
+
+dhanjani said today's cars should be held to a higher security standard than the average laptop. not only are they more expensive, but losing control of a car can put lives in danger.
+
+"we can't attempt to secure our vehicles the way we have attempted to secure our workstations at home," dhanjani, who advises companies on computer security, said in a blog post. "the implications to physical security and privacy in this context have raised stakes to the next level."
+
+related story: tesla and audi to become at&t cars
+
+dhanjani was especially worried about teslas.
+
+tesla owners must create a password-protected online account, which lets them use a smartphone app to access car locks, locate a car, and also see how much its batteries are charged. a single password gives complete access to an account, which is a problem, according to dhanjani.
+
+he also found that tesla's website didn't lock users out even if someone typed several incorrect passwords. that opens up the site to what's known as "brute-force attacks," where a computer tries thousands of passwords per second until it breaks in. on monday afternoon, tesla updated its requirements, locking out users after five incorrect attempts, dhanjani said. tesla did not immediately respond to a request for comment.
+
+dhanjani learned about this firsthand when he bought his own tesla model s p85+ three weeks ago. he noticed the single password requirements, and decided to test the system by submitting a wrong password 150 times straight. it never locked him out, nor did it ask for the jumbled letters that keeps automated hacker attacks at bay.
+
+related story: tesla reaches deal to keep selling in new york
+
+despite the findings, dhanjani said he isn't uneasy about his own car and can't wait to get back from vacation to drive the model s parked at home in bellevue, wa.
+
+however, he's concerned about the security of a tesla, especially if it were to be the security standard for electric cars.
+
+"the time is right now for tesla to fix this," dhanjani said. "as other car manufacturers draw inspiration from tesla's design and architecture, there will be more people to compromise and launch attacks against."

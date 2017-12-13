@@ -1,0 +1,41 @@
+digital thieves have a playbook for stealing your sensitive data. a software security firm spells it out.
+
+avira, a company that provides antivirus and internet security software, has published a concise but informative 5 step guide to mobile theft explaining the how and why of malware getting inside your mobile device.
+
+the five-step strategy is pretty simple but effective, according to avira.
+
+cunning malware spreads, going after your bank account
+
+effective because, one, some malicious software slips by filters at reputable online stores and, two, people are always looking for free stuff, alexander vukcevic, head of virus lab for avira, told fox news.
+
+users rely on the quality assurance provided by store operators, and many users try to access and deploy popular apps through alternative stores without paying anything, he said. thisis used by many malware authors to infect mobile phones.
+
+step 1: the plan. the bad guys identify vulnerabilities then develop exploits. if they dont have the skills, they hire a bounty hunter on the black market. bounty hunters sometimes work with exploit brokers. the broker gets paid because organizations will pay to find and stop the hack.
+
+scary ransomware attacks famous north carolina county
+
+step 2: the gear. infected websites and malicious apps are the gear used to install malware on victims' phones.
+
+step 3: the inside man. once downloaded to your phone, the bad guy tries to gain root access to the phone. if this fails, they generate a fake update notification  clicking on the notification grants them the ability to display ads and download apps at will. banditos can even change the phones imei number to increase the number of ads they can display, according to avira.
+
+imei, which stands for international mobile equipment identity, is a unique number used to identify phones.
+
+shipping giant hit by cyberattack, refuses to pay hackers' ransom
+
+step 4: the heist. they sit back wait until the money starts flowing in.
+
+step 5: the getaway. the cybercriminals have gotten inside and left malicious code behind. but the malware is often difficult to dislodge, says avira.
+
+hummingbad -- and its derivatives -- is a good real-world example, according to avira. the booby-trapped app is incredibly devious because its often supported by fake reviews and four-star ratings.
+
+https://blog.avira.com/mobile-malware-guide/
+
+macos high sierra 'root' bug makes hacking it easy
+
+these apps can look pretty good. people have found them in the official google play store or, more commonly, from the off-market sites, avira said. off-market sites offer, for example, android apps that may not be available in the google play store. the apps on these sites are often free.
+
+however, if users access a malicious app it immediately tries to get root access to the phone, which allows it to do pretty much anything. if that fails, it tries to get the user to click on a bogus system update notification," according to avira.
+
+and it can be very profitable. each click, every install on the infected device means more money for the bad guys  an estimated $300,000 monthly, avira said, referring to hummingbad.
+
+the fix can be extreme. to remove this malware, the most common solution is a wipeout for the device owner, as it usually requires a complete reset of the device, wiping out all apps, settings, and saved files, says avira.

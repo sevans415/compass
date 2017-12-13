@@ -1,0 +1,67 @@
+(cnn) dubai is well known as a testing ground for future tech, and seen as a model for future living by many. try telling that to anyone stuck in congestion on sheikh mohammed bin zayed road.
+
+a major road artery running from abu dhabi to ras al-khaimah, it's a perennial flashpoint in dubai, where car ownership is higher than both new york and london, according to 2015 figures from the road and transport authority (rta). some of the congestion has been eased by the dubai metro, which saw over 191 million passenger journeys in 2016, up 12.7 million year-on-year. few dispute there's more to be done, however.
+
+it'll come as little surprise that dubai is looking for solutions in a way only dubai could.
+
+looking to the skies
+
+one fix is to take the traffic to the skies. the rta announced in february a collaboration with chinese company ehang , designers of a 500-pound single seat drone. since then the authority has pursued a relationship with german manufacturer volocopter to fast-track its autonomous air taxi project.
+
+just watched dubai's plan to revolutionize the transport sector replay more videos ... must watch dubai's plan to revolutionize the transport sector 08:03
+
+utilizing 18 rotors, volocopter's electric two-seater drone can fly autonomously or controlled via joystick, and contains an emergency parachute should matters go awry. with a cruising speed of 30mph and a flight time of 30 minutes, that's enough to get you from dubai international airport to the landing pad of the burj al arab with time to spare.
+
+a prototype began test flights in september, but the roll out will be gradual says khaled al awadhi, director of automated collection systems at the rta: "our target by the coming five years (is) seeing this type of transportation flying all over the city."
+
+although flying car technology is largely unproven, the private sector is eager to get involved. dubai is earmarked as a testing ground for uberair -- an arm of the ride hailing company dealing in flying taxis -- which has partnered with nasa to develop the necessary air traffic software. uberair has set itself a deadline of 2020 launch and 2023 for a full-scale operation.
+
+autonomous society
+
+this will come as music to the ears of ruler sheikh mohammed bin rashid, who in 2016 called for 25% of all transport in dubai to be autonomous by 2030 . doing so would reduce accidents in theory, and prove an eco-friendly solution, as many projects being pursued are electric.
+
+heeding the call, other manufacturers have pursued self-driving vehicles on dubai's terra firma.
+
+in april 2016, a 10-seater short distance bus called the ez10 , created by french firm easymile and dubai-based omnix international, hit testing, running along pre-programmed routes.
+
+at gitex technology week 2016, an industry trade fair in dubai, ride hailing company careem collaborated with modular transport startup next future transportation on a driverless pod concept , capable of linking up like train carriages and potentially transferring battery packs between units to create a seamless journey. by july 2017 it had a working prototype:
+
+if either were rolled out and adopted at scale, it could cut the number of vehicles on the road significantly.
+
+meanwhile, the state-run taxi service took delivery of 50 teslas in september 2017, the first installment in a 200-unit deal.
+
+the electric cars, a mix of model s sedans and model x suvs, already have semi-autonomous systems in place, with the hardware for a fully-autonomous experience installed and ready for future software updates. tesla also began selling models to private citizens in dubai this summer via its first showroom in the middle east.
+
+precognition on the roads
+
+while tesla may not reduce cars on the road, a mass roll-out of autonomous vehicles would hypothetically cut the number of road accidents. it's not the only company looking to do so.
+
+derq describes itself as "a dubai-based mit spin-off with a mission to eliminate road accidents and save lives by using artificial intelligence and v2x (vehicle-to-vehicle or vehicle-to-infrastructure) technology."
+
+"in the future autonomous cars are coming, flying drones, and i think this comes with a lot of challenges," says ceo georges aoude.
+
+derq develops software for vehicles, and uses a combination of citywide sensors and onboard computers to anticipate erratic driver behavior and other hazards, notifying nearby drivers. already operational in parts of dubai, forbes reported the startup had raised $1.5m in funding in october.
+
+all aboard the hyperloop
+
+dubai is looking to attract another of elon musk's concepts. not owned by the serial entrepreneur (musk open-sourced the idea), virgin hyperloop one aims to use magnetic levitation technology to transport pods along vacuum-sealed tubes at 700mph -- not far shy the current land speed record
+
+the emirate has long been linked with the technology, with one route to fujairah and another to abu dhabi mooted. the latter would cut the 102-mile journey to just 12 minutes.
+
+just watched hyperloop passes the first public test replay more videos ... must watch hyperloop passes the first public test 04:24
+
+in october, company ceo rob lloyd told local news that construction will begin in 2019 with testing to commence at production level in 2021. lloyd had previously described dubai as " our number one priority ," but more recently would not be drawn as to whether the uae, northern europe or the us would be home to the first fully-functional hyperloop.
+
+contained to the uae, a roll out would ameliorate inter-emirate travel, but if expanded, the effects could be profound. hyperloop would enable dubai travelers to skip the world's third busiest airport and reach riyadh, saudi arabia in a mere 62 minutes, for example.
+
+planning for the future, today
+
+dubai road and transport authority's enterprise command and control center.
+
+if this all seems far away, dubai is already preparing for future transport within a new $90 million command and control center, the ec3.
+
+the 117,000-square feet building feeds in over 11,000 cctv cameras, and uses ai to manage road accidents and crises, say the rta. one room, known as "the cave," integrates existing and future modes of transport into its computer modeling, testing exactly how dubai's transport network will cope with increasingly diverse demands.
+
+"being able to analyze such data, to (...) predict the traffic, this is definitely the future, today," says abdulla bastaki, director of the technology strategy and governance department at the rta.
+
+but whether these computer models will eventually reflect reality remains, like an autonomous drone, up in the air.
